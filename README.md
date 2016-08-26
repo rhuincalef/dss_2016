@@ -3,8 +3,8 @@
 Alumnos
 --------
 
--Huincalef, Rodrigo
--Martinovic, Andres
--Etchart, Walter
--Luque, Leandro
+- Huincalef, Rodrigo
+- Martinovic, Andres
+- Etchart, Walter
+- Luque, Leandro
 
