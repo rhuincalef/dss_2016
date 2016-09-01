@@ -1,0 +1,1001 @@
+id,category,area,city,province,rooms,bedrooms,garage,meters
+1,triplex,88.06,Dongqianhu,Yelkhovka,8,3,1,138.21
+2,departamento,119.98,Melaka,Jiujiang,6,5,1,84.39
+3,departamento,151.7,Pamupukan,Ostuncalco,9,1,,85.26
+4,triplex,327.6,Kampunglistrik,Azara,9,2,,57.16
+5,departamento,322.92,Tuwiri Wetan,Nosy Varika,2,2,1,113.22
+6,departamento,147.28,Wuguishan,Selizharovo,3,1,1,69.71
+7,departamento,384.49,Erdenet,Gayamsari,1,4,1,135.42
+8,triplex,320.72,Kobilje,Krajansumbermujur,7,2,,105.8
+9,departamento,295.84,Maiac,Mrkonjić Grad,2,4,,125.48
+10,departamento,308.34,Wenqiao,Pontes e Lacerda,2,5,2,81.82
+11,departamento,303.25,Qiqin,Chikola,6,5,,104.55
+12,duplex,149.05,Dayin,Przelewice,9,3,1,86.76
+13,triplex,291.15,Sixi,Xujiahe,2,4,,21.9
+14,departamento,72.6,Kiarajangkung,Dongping,6,3,,130.22
+15,departamento,125.62,Saseel,Bălţi,3,2,2,17.99
+16,piso,186.15,Nanxia,Kauit,10,4,,74.59
+17,triplex,318.33,Ciénega,Ängelholm,8,2,1,67.8
+18,monoambiente,392.29,Vilya,Olenegorsk,7,5,,2.71
+19,monoambiente,118.57,Kuanfeu,Phuthaditjhaba,8,1,,9.18
+20,departamento,122.64,Zhaogezhuang,Llauta,7,5,,71.04
+21,monoambiente,103.76,Xiang Ngeun,Taunoa,6,3,,113.7
+22,monoambiente,278.5,Bolo,Skellefteå,10,1,,56.46
+23,departamento,210.82,Pankshin,Sendafa,3,5,,11.37
+24,departamento,339.55,Yixi,Weishanzhuang,1,5,,91.21
+25,departamento,339.2,Haridimun,Hoi,4,4,,67.23
+26,casa,194.62,Celeirós,Jiangcun,9,2,,5.79
+27,departamento,276.6,Lame,Donggang,7,1,2,147.32
+28,departamento,224.71,Jikamshi,Golopau,1,3,,32.0
+29,casa,305.55,Qiangqinxue,Dar Chabanne,1,4,,127.79
+30,departamento,169.66,Chantilly,Pamarayan,1,5,,73.14
+31,monoambiente,364.02,Copán,Cipunglu,10,2,,101.31
+32,triplex,230.6,Chvalšiny,Calumpang,10,1,,121.94
+33,monoambiente,89.48,Puro,Dassa-Zoumé,6,3,1,72.92
+34,departamento,207.76,Descalvado,Djibouti,2,5,2,132.23
+35,duplex,60.57,Shiren,Kungsbacka,4,1,,74.18
+36,triplex,231.78,Fresnes,Stuttgart,6,2,,44.3
+37,monoambiente,178.15,Vacenovice,Soutinho,8,1,,143.67
+38,departamento,163.67,Taytayan,Tabango,5,2,,44.87
+39,monoambiente,175.49,Baih,Néa Karyá,8,3,,110.52
+40,triplex,380.37,Sundsvall,Antanifotsy,4,4,,111.24
+41,departamento,383.56,Longhua,Al ‘Azīzīyah,10,5,1,73.42
+42,duplex,249.94,La Guata,Ojrzeń,5,3,,121.22
+43,departamento,171.6,Veternik,Naran Bulag,9,3,1,112.13
+44,monoambiente,184.72,Xingfu,Bojongaren,8,4,,74.41
+45,departamento,337.34,Bahaodi,Toritama,5,2,2,13.04
+46,departamento,278.71,Mỹ Xuyên,Желино,7,5,1,140.68
+47,monoambiente,201.29,Meixian,Bugojno,2,5,,53.37
+48,duplex,302.71,Huoshaoping,Sebewe,3,1,,105.3
+49,monoambiente,217.01,Dukuhsawah,Pereleshino,7,5,,59.98
+50,departamento,176.48,Aguas Verdes,Cahuanuyo,4,5,,115.01
+51,departamento,251.7,Nggambel,Prestea,1,1,,18.62
+52,triplex,118.18,Nevyts’ke,Zimmi,7,4,,106.96
+53,monoambiente,215.8,Cabarroguis,Jermenovci,3,2,2,12.42
+54,monoambiente,314.97,Wairinding,Regnów,4,2,,21.31
+55,monoambiente,244.49,Marapat,Bodzentyn,9,2,,90.17
+56,triplex,349.6,Berkovitsa,Bunisari,5,5,,119.16
+57,casa,94.41,Jaguarão,Sukošan,10,1,,135.06
+58,monoambiente,68.25,Troitskoye,Kuripan,8,4,,4.94
+59,departamento,132.04,Mueang Nonthaburi,Xiangzhou,10,3,,33.83
+60,departamento,216.68,Tarnawatka,Dakhla,2,3,2,87.64
+61,departamento,106.89,Bakan,Falun,1,1,1,131.65
+62,monoambiente,267.17,Aygezard,Sabirabad,10,5,,116.22
+63,triplex,247.62,Leran Kulon,Dagang,2,3,1,133.53
+64,monoambiente,190.66,Aghajari,Gimry,3,3,1,99.15
+65,monoambiente,115.74,Petkovci,Belém,3,4,,65.38
+66,departamento,310.29,Micheng,Barurao,1,3,1,60.34
+67,duplex,216.16,Genova,Baoping,8,3,,114.14
+68,departamento,197.46,Kupchino,Siguinon,2,1,,121.01
+69,departamento,367.39,Ughelli,Mouzáki,3,4,,136.44
+70,departamento,256.76,Taurage,Kilmacanoge,6,3,,142.16
+71,departamento,303.04,Abonnema,Limulan,2,4,,118.89
+72,departamento,275.83,Thawat Buri,Gradec,1,3,,17.48
+73,departamento,174.78,Quintãs,Ovruch,6,4,,14.51
+74,monoambiente,130.9,Yuhe,Quiches,4,4,2,116.9
+75,departamento,229.37,Łopuszna,Xunjian,8,2,,22.99
+76,triplex,139.55,Belo Horizonte,Saseel,2,1,,33.38
+77,triplex,352.23,Allen,Frei Paulo,10,2,1,41.09
+78,departamento,323.09,Castlemartyr,Zavitinsk,10,1,1,125.57
+79,monoambiente,325.27,Dimitsána,Anna Regina,6,1,,34.65
+80,departamento,354.5,Soriano,Mikulintsy,8,1,1,72.16
+81,triplex,113.24,Tangdong,Wailiang,3,1,1,133.46
+82,triplex,353.16,Zhuoshui,Semamung,2,4,,5.12
+83,monoambiente,278.02,Itapuranga,Druzhny,1,3,,116.54
+84,piso,72.62,Yartsevo,Shijing,4,3,,149.32
+85,departamento,150.59,Rosario del Ingre,Beiqi,7,3,,131.55
+86,monoambiente,248.05,Kista,Pericik,1,1,,51.23
+87,departamento,363.58,Paraíso,Hamilton,4,4,,117.42
+88,departamento,80.33,Balading,Chropyně,7,4,,103.77
+89,departamento,164.98,Ialoveni,Xi’an,2,5,,119.05
+90,triplex,345.71,Meipu,Songgui,7,2,2,79.31
+91,monoambiente,70.19,Montélimar,Praia das Maçãs,10,4,,113.62
+92,departamento,231.25,Mancogeh,Obudu,4,3,2,20.05
+93,monoambiente,230.7,Balibago,Suocheng,6,4,,46.73
+94,departamento,300.27,Ellös,Ash Shajarah,3,3,,121.68
+95,triplex,220.22,Fusagasuga,Huoche Xizhan,5,1,2,88.28
+96,departamento,215.44,Miragaia,Meylan,7,5,,57.33
+97,departamento,109.86,Washington,Dingcheng,10,2,,64.59
+98,triplex,371.08,Mbale,Bagangan,8,3,,12.11
+99,departamento,142.41,Dolgoprudnyy,Komyshany,2,1,,119.59
+100,monoambiente,390.78,Uglich,Si Prachan,7,1,,27.01
+101,departamento,59.51,Hüremt,Fažana,1,4,2,141.01
+102,monoambiente,86.27,Chenglin,Mogapi,5,3,,62.45
+103,departamento,263.24,Jingyao,Krajan Kerjo,7,4,,104.62
+104,departamento,106.35,Faraulep,Paracatu,8,3,,59.72
+105,monoambiente,255.13,Malianchuan,Madīnat Sittah Uktūbar,5,3,,87.02
+106,departamento,343.88,Huaping,Mieszkowice,5,5,,108.67
+107,departamento,308.48,Zhongchuan,Železná Ruda,2,2,2,119.18
+108,departamento,53.25,Muara Siberut,Georgetown,10,1,,17.53
+109,departamento,59.94,Kuwumkumambal,Paagahan,6,5,1,83.62
+110,duplex,244.27,Mosquée,Cabatang,4,3,,43.42
+111,departamento,266.47,Sugihmukti,Nueva Guadalupe,1,3,,43.04
+112,duplex,267.68,Nagasaki-shi,Aramecina,9,2,,145.91
+113,departamento,301.83,Desa Kertasari,Bowang,7,4,2,90.27
+114,monoambiente,255.87,Dalmacio Vélez Sársfield,Krajan,7,2,1,10.36
+115,triplex,325.12,General Alvear,Tumpang Satu,3,4,,21.32
+116,departamento,97.62,Gutian,Hyżne,5,2,,147.6
+117,monoambiente,365.64,Tanūmah,Cibungur,9,2,2,96.27
+118,departamento,116.35,Freiria,Kumagaya,7,1,,147.88
+119,triplex,211.65,Jiangtou,Stepnogorsk,3,4,,51.07
+120,monoambiente,357.57,Quinuabamba,Colonia Minga Porá,3,2,,29.18
+121,monoambiente,118.58,Xishanzui,Massaguet,1,1,,73.1
+122,monoambiente,86.74,Chang’an,Reutlingen,5,5,,131.68
+123,departamento,113.46,Chisec,Cangkreng,3,3,,105.54
+124,duplex,142.56,Pershotravneve,Liyang,5,3,1,146.36
+125,piso,290.92,Akhaldaba,Raszowa,8,1,,63.2
+126,triplex,129.59,Savanna-la-Mar,Hekou,2,3,,80.36
+127,casa,296.78,São Miguel do Guamá,Tielu,3,5,,81.71
+128,monoambiente,336.61,Lakateng,Azurva,1,2,,26.25
+129,piso,59.98,Kara-Balta,Pensacola,10,5,,41.65
+130,triplex,90.25,Tân Châu,Ladan,8,3,2,38.02
+131,departamento,168.74,Huanglong,Paledang,2,2,,140.8
+132,departamento,262.2,Chaoyangdong,Nedakonice,7,2,1,11.02
+133,departamento,323.61,Munduk,Songbo,9,1,,70.05
+134,departamento,90.72,Wushi,Sartrouville,4,3,,135.89
+135,departamento,318.08,Lazaro Cardenas,Registro,6,2,,89.91
+136,departamento,371.4,Ziliang,Sumqayıt,10,3,,51.4
+137,departamento,75.9,Bohutín,Corpus,1,4,2,23.62
+138,duplex,167.01,Zhongguan,Bridgetown,2,4,,139.28
+139,departamento,243.41,Philadelphia,Prupuh,4,3,,15.79
+140,departamento,158.37,Pavshino,Dongjin,4,5,2,115.12
+141,departamento,319.97,Cockburn Town,Puwa,9,2,,38.14
+142,departamento,323.1,Sonorejo,Laoxialu,3,2,,136.62
+143,departamento,269.25,Shibukawa,Perjuangan,7,2,,122.12
+144,departamento,305.52,Dois Portos,Chencai,2,3,,19.68
+145,departamento,364.17,Bressuire,Moulins,7,2,,94.05
+146,departamento,300.62,Taokeng,Taoyuan,5,1,,27.3
+147,monoambiente,338.49,Benito Juarez,Kolbano,2,4,,14.4
+148,monoambiente,188.24,Los Cóndores,Duwe,9,3,,104.77
+149,monoambiente,125.52,Hamanoichi,Vanadzor,1,5,1,40.85
+150,casa,270.83,San Francisco,Montigny-lès-Metz,1,4,,61.51
+151,triplex,229.18,Lubao,Omu Aran,6,3,1,32.64
+152,casa,351.86,Luboń,Huaikan,4,3,,82.04
+153,departamento,102.65,Mosoc Llacta,Bobigny,8,4,,104.15
+154,departamento,56.92,Luokeng,Cherkasskoye,2,5,2,99.78
+155,departamento,225.93,Calmar,Nasavrky,6,1,,1.08
+156,monoambiente,370.64,Ciketak,Fornos,1,4,1,99.78
+157,departamento,246.27,Langxi,Angra do Heroísmo,7,2,,77.31
+158,departamento,167.96,Quán Hành,Palaióchora,2,5,,16.03
+159,departamento,59.22,Jiangxigou,Toledo,3,2,,49.23
+160,departamento,107.88,Coronel Fabriciano,Grande Cache,2,5,2,92.76
+161,piso,82.82,Delft,Daxi,10,5,1,84.34
+162,monoambiente,57.98,Bajera,Buenos Aires,7,2,,135.03
+163,monoambiente,165.04,Bajiao,Gaoqiao,2,1,2,124.6
+164,departamento,99.97,Bezhta,Santa Rita,7,1,2,110.98
+165,triplex,392.6,Los Santos,Yangchun,9,5,2,132.74
+166,departamento,55.31,La Esperanza,Xinshi,4,1,,141.07
+167,monoambiente,71.25,Chikola,Rouen,10,2,,80.61
+168,monoambiente,172.25,Jingdu,Moa,3,2,,35.28
+169,monoambiente,70.11,Blantyre,Yili,10,2,2,19.44
+170,departamento,175.49,Pengfang,Atlanta,10,5,,102.66
+171,departamento,152.61,Velké Hoštice,Kampungmasjid,6,1,,73.78
+172,departamento,351.11,Sukadana,Anhua Daying,6,4,,131.06
+173,departamento,302.38,Xiyuan,Novosineglazovskiy,4,4,,134.75
+174,monoambiente,156.0,Gvozd,Tamianglayang,9,5,,30.59
+175,monoambiente,148.9,Kukuna,Claye-Souilly,9,5,,96.3
+176,departamento,135.7,Kibara,Gulu,10,4,,39.15
+177,triplex,342.32,Tamano,Medang,7,3,,91.77
+178,departamento,80.91,Laon,Lysekil,1,2,2,53.9
+179,monoambiente,98.64,Lubukgadang,Marihatag,7,2,,120.38
+180,departamento,389.85,Kayangel,Xiashu,10,1,,136.63
+181,departamento,169.58,Ibagué,Wangjiaping,7,1,,87.49
+182,departamento,248.67,Lubowidz,Dagang,6,5,,50.76
+183,duplex,363.92,Kristinestad,Xiaojian,10,1,2,60.43
+184,triplex,57.23,Pondokdalem,Lingqiao,2,3,2,102.58
+185,departamento,363.77,Loja,Proletar,3,1,2,139.79
+186,departamento,132.91,Pulau Pinang,Jadi,4,5,,97.09
+187,departamento,197.87,Mafeng,Longotea,9,3,,26.67
+188,triplex,336.52,Skórzec,Kusŏng,1,1,,95.49
+189,departamento,106.42,Trollhättan,Keta,9,2,1,51.07
+190,triplex,270.89,Hägersten,Yandang,1,2,,40.75
+191,departamento,220.7,Bedayutalang,Lincheng,7,5,,10.63
+192,departamento,330.07,Salwá,Kurbnesh,2,5,2,137.43
+193,monoambiente,307.08,Lazaro Cardenas,Fatou,1,3,,9.21
+194,departamento,293.32,Machikou,Sabang,6,3,1,114.22
+195,monoambiente,389.92,Saratamata,Port-de-Bouc,2,5,2,98.91
+196,monoambiente,197.8,Bridgewater,Akzhal,10,3,,20.53
+197,departamento,111.87,Guodu,Aráchova,1,4,,23.78
+198,duplex,315.87,Järfälla,Semikarakorsk,10,5,,39.95
+199,departamento,297.61,Nanterre,Pljevlja,10,3,,22.65
+200,departamento,287.43,Tintafor,Yushan,1,4,1,46.58
+201,departamento,239.89,Lysá nad Labem,Légua,5,4,,61.65
+202,duplex,323.36,Mohammedia,Guangyuan,1,1,,24.94
+203,departamento,362.13,Paris 09,Anyuan,6,4,,89.8
+204,departamento,134.7,Pilníkov,Vila Fria,9,2,1,130.53
+205,casa,161.79,Heiiyugou,Concepción,5,4,1,131.04
+206,triplex,109.14,Mamali,Châteaurenard,2,5,,20.08
+207,triplex,92.22,Tugu,Parramos,6,3,,148.91
+208,departamento,334.82,Carmen,Tarbes,10,4,,89.74
+209,monoambiente,336.27,Ostrožská Lhota,Sabang,7,4,,104.44
+210,casa,130.51,Paldiski,Dalarik,3,1,,39.16
+211,departamento,370.6,Ma‘bar,La Roche-sur-Yon,3,5,2,88.26
+212,departamento,374.57,Três Lagoas,Al Fashn,9,3,,18.56
+213,monoambiente,53.98,Naukšēni,Alajuela,6,3,,13.27
+214,monoambiente,266.02,Longshan,Huaguoshan,10,1,,130.31
+215,duplex,127.1,Małkinia Górna,Kiszkowo,8,2,,6.04
+216,departamento,390.89,Velikiy Ustyug,Regueiro,5,4,1,126.93
+217,departamento,224.71,Jiuxian,Hannover,1,2,2,125.57
+218,monoambiente,124.78,Stavanger,Xuji,2,3,2,35.53
+219,departamento,226.79,Zhoushan,Sungayang,9,5,,54.99
+220,departamento,191.38,Druju,Liuji,8,3,,89.39
+221,triplex,221.62,Kafr Zībād,Zhongxing,4,1,,45.67
+222,departamento,53.09,Huatanshan,Tân Kỳ,2,4,,41.84
+223,departamento,303.81,Villazón,Norsborg,4,1,,82.29
+224,departamento,377.49,Tarfaya,Ciudad del Este,8,3,,101.48
+225,casa,360.34,Anfusi,Jauja,6,5,,59.06
+226,triplex,287.48,Santulhão,Sydney Mines,4,2,,26.26
+227,departamento,353.22,Shireet,Sainte-Anne-de-Bellevue,9,1,,58.34
+228,departamento,58.92,Xichangmen,Verdizela,4,5,,53.33
+229,departamento,374.55,Maruoka,Kawambwa,5,1,1,51.83
+230,casa,154.96,Tournavista,Lungaog,4,1,2,34.4
+231,departamento,103.37,Acatenango,Banjar Dauhpura,2,2,,23.26
+232,departamento,163.98,Ruma,Jandayan,3,5,,76.11
+233,departamento,117.9,Linköping,Calidñgan,8,3,1,93.37
+234,departamento,181.7,Du’ermenqin,Ribeiro,7,3,,139.79
+235,triplex,237.79,Santo Tomas,Qal‘ah-ye Fārsī,2,5,,109.2
+236,duplex,68.07,San José de Barlovento,Roblin,1,5,1,108.91
+237,departamento,305.78,Rybatskoye,Conner,2,2,,90.93
+238,duplex,388.22,Sindangsari,Caridad,6,2,1,65.75
+239,triplex,59.94,Águas Vermelhas,Koch'ang,8,5,,11.2
+240,departamento,167.68,Greensboro,Chipinge,7,4,2,125.66
+241,departamento,173.57,Rodionovo-Nesvetaiskoye,Lubbock,4,5,,134.38
+242,departamento,207.4,Sarirejo Satu,Évry,4,5,,35.48
+243,departamento,233.63,Grindavík,Shangtianba,9,4,,76.36
+244,monoambiente,183.25,Zuocun,Hengbanqiao,2,2,,84.02
+245,departamento,398.66,Solnechnyy,Khāliş,7,3,,104.7
+246,piso,181.56,Tarbagatay,Lokolande,10,2,,101.28
+247,monoambiente,83.4,Gedera,Nowshera Cantonment,1,3,,53.56
+248,departamento,114.17,Ulashan,Moppo,9,4,,22.84
+249,departamento,350.14,Cotton Ground,Al Qubbah,6,1,,66.5
+250,triplex,248.29,Meaux,Bromma,5,5,,88.12
+251,departamento,258.53,Kelapa,Sōja,9,2,,12.31
+252,triplex,234.03,Longzui,Savelugu,5,3,,92.76
+253,departamento,265.94,Oklahoma City,Paniówki,3,5,,110.34
+254,monoambiente,391.23,La Palma,Tolstoy-Yurt,6,2,,98.84
+255,monoambiente,243.34,Jacareí,Larnaca,8,5,1,72.78
+256,departamento,229.28,Lieksa,Ventersburg,4,1,1,56.31
+257,departamento,122.59,La Carlota,Mantalongon,7,4,,9.68
+258,departamento,194.42,Vidin,Windsor,2,2,,147.24
+259,duplex,78.16,Perdões,Grängesberg,6,5,,88.15
+260,triplex,91.3,Mathba,Bonriki Village,7,5,,128.17
+261,departamento,201.07,Qingkenpao,Eqbālīyeh,6,1,2,113.52
+262,departamento,64.34,Xiang Ngeun,Blatná,2,5,,133.44
+263,departamento,297.96,Detroit,Changtu,8,4,,143.34
+264,departamento,105.68,Hacienda La Calera,Yonghe,5,5,,95.72
+265,monoambiente,100.81,Sigiriya,Dolice,5,3,,124.59
+266,departamento,122.63,Długosiodło,Gejiu,1,3,,8.82
+267,departamento,350.04,Cambanay,Luhačovice,5,5,2,127.01
+268,departamento,271.11,Phú Vang,Pasirhuni,3,5,,145.69
+269,monoambiente,263.7,Masu,Narathiwat,7,1,,87.81
+270,triplex,315.93,Zárate,Laohekou,8,3,,115.97
+271,departamento,70.75,Anjie,Prachamtakham,9,3,,73.34
+272,departamento,174.05,Bedinje,Figueira dos Cavaleiros,3,1,,66.43
+273,departamento,306.33,Mongar,Bellavista,5,3,,59.75
+274,departamento,102.46,Melrose,Kajok,9,4,2,120.88
+275,departamento,159.39,Kladi,Knyazhichi,4,2,1,52.6
+276,casa,355.76,Ringim,Sindangsari,4,1,,114.71
+277,departamento,151.94,Megion,Greytown,7,4,,2.28
+278,monoambiente,178.13,Cassilândia,Zuya,2,5,,98.55
+279,departamento,309.52,Bačka Topola,San José,1,1,,79.99
+280,departamento,137.61,Barroso,Kyjov,3,1,1,121.97
+281,departamento,108.55,Wassa-Akropong,Vilémov,9,4,,128.12
+282,departamento,242.32,Ārān Bīdgol,Weekombaka,8,2,,91.17
+283,monoambiente,126.81,Ntaur Satu,Yên Bái,4,5,,27.42
+284,departamento,281.81,Jieyang,Shanling,9,2,,146.12
+285,monoambiente,113.44,Maebashi-shi,Leninskiy,5,2,,112.21
+286,monoambiente,303.01,København,Ágios Efstrátios,4,2,2,16.04
+287,departamento,264.97,Modis,Mende,2,3,2,84.33
+288,monoambiente,237.0,Buda-Kashalyova,Maketu,3,4,,11.05
+289,monoambiente,140.66,Queniquea,Shikou,4,5,,78.56
+290,duplex,177.25,Höviyn Am,Hai Riêng,6,2,,32.66
+291,departamento,367.03,Bebandem,La Romana,6,5,,127.05
+292,departamento,315.24,Shangani,Mosina,8,5,1,5.31
+293,triplex,113.22,Bene 'Ayish,Ruteng,5,5,,26.93
+294,triplex,330.29,Pirassununga,Gore,7,4,,16.92
+295,monoambiente,207.53,Sekondi-Takoradi,Tlumach,7,1,,14.1
+296,duplex,387.2,Yaogu,Pontang Tengah,9,1,,127.23
+297,monoambiente,321.2,Bijela,Pekalongan,1,1,,141.66
+298,departamento,127.22,Mina de São Domingos,San Bartolomé Milpas Altas,7,3,,47.65
+299,triplex,71.77,Aviles,Kočevje,2,3,1,137.61
+300,triplex,145.62,Karantaba,Chenārān,5,1,,75.63
+301,triplex,232.49,Lalig,Załuski,6,1,,130.6
+302,monoambiente,294.34,Xin’an,Binkolo,2,2,,107.53
+303,monoambiente,168.03,Prochnookopskaya,Fucheng,6,3,,131.04
+304,monoambiente,148.95,Libertador General San Martín,Samut Songkhram,8,3,1,67.1
+305,monoambiente,150.57,Sanyi,Pangkungparuk,9,5,,32.16
+306,departamento,328.78,Drammen,Caen,1,5,,99.13
+307,departamento,115.32,General Levalle,Ainaro,5,1,,25.34
+308,departamento,328.7,Rukem,Macaé,7,1,1,74.9
+309,departamento,290.73,Prévost,Javhlant,10,1,,11.16
+310,monoambiente,369.3,Pu’er,Brckovljani,9,2,1,23.93
+311,triplex,363.28,Radzanów,Youwei,10,1,,77.28
+312,departamento,151.72,Enjiang,Ronda,9,5,,78.86
+313,piso,252.24,Partizan,Rios Frios,10,5,1,76.91
+314,monoambiente,348.72,Datar,Zhiqing Songduo,1,5,,142.72
+315,monoambiente,115.39,Hagerstown,Nancun,5,4,,100.32
+316,monoambiente,140.54,Nouaseur,Kavār,2,5,1,26.79
+317,departamento,96.95,Utsunomiya-shi,Providencia,5,5,,35.54
+318,duplex,260.79,Shangshuai,Perstorp,2,2,1,43.39
+319,monoambiente,325.11,Pucallpa,Nuwaybi‘a,7,1,,141.94
+320,departamento,57.68,Hewan,Boyany,2,3,2,137.9
+321,departamento,78.0,Kayunga,Changhe,6,2,,141.86
+322,triplex,221.14,Imsil,Perre,9,2,,100.02
+323,departamento,118.53,Pekijing,Strelitsa,6,1,,67.91
+324,monoambiente,141.49,Lianyuan,Buka,1,2,,112.84
+325,monoambiente,380.36,Corumbá,Kotabaru,8,5,,61.05
+326,duplex,362.53,Černá Hora,Temryuk,3,1,,122.94
+327,triplex,293.04,Dugulubgey,Lubu,5,1,2,137.34
+328,monoambiente,163.1,Agana Heights Village,Dashiju,2,1,1,20.1
+329,triplex,330.6,Izborsk,Pukou,3,2,1,128.65
+330,departamento,101.62,Plovdiv,Gus’-Khrustal’nyy,10,1,2,60.34
+331,departamento,133.9,Hongqi,Chuoyuan,10,1,,45.08
+332,monoambiente,264.66,Besuk Selatan,Cabeço,5,4,1,77.01
+333,monoambiente,332.59,Druju,Neietsu,9,5,,123.51
+334,monoambiente,325.14,San Andrés Villa Seca,Kanghe,7,2,2,12.79
+335,departamento,100.68,Miratejo,Bāndarban,9,4,,97.39
+336,monoambiente,69.0,Mahaba,Zhoinda,2,5,2,42.1
+337,monoambiente,92.0,São Pedro de Trafaria,Alençon,7,4,,61.75
+338,departamento,82.48,Temanjang,Helmsange,9,2,,53.0
+339,duplex,207.95,Murcia,Buenlag,3,2,,147.87
+340,departamento,251.0,Hachinohe,Yingcheng,2,4,,132.33
+341,departamento,147.93,Plottier,Kościerzyna,10,2,,137.17
+342,monoambiente,195.41,Pomar,Klášterec nad Ohří,7,4,,11.09
+343,departamento,130.1,Mashtūl as Sūq,Yasynuvata,2,4,1,44.94
+344,departamento,161.17,Bègles,Ekibastuz,10,3,1,32.56
+345,departamento,236.35,Krasnyy Kholm,Sumbersih,2,5,,122.5
+346,departamento,77.19,Bressuire,San Diego,2,4,1,128.07
+347,departamento,339.77,Hekou,Cruzeiro,2,1,,11.25
+348,piso,65.17,Paraiso,Vanadzor,2,2,1,84.72
+349,departamento,200.45,Zhangzhu,Dungkek Laok,3,3,,37.58
+350,departamento,387.64,Armenia,Khon San,5,1,,109.24
+351,triplex,93.22,Cergy-Pontoise,Yonggu,10,4,,115.7
+352,departamento,95.99,Río Viejo,Azul,6,5,,52.24
+353,departamento,192.28,Carvalhos,Cahuac,4,4,2,96.14
+354,departamento,193.39,Volgograd,Vila Franca da Beira,7,1,,97.32
+355,departamento,247.84,Chorkówka,Billère,4,3,1,131.81
+356,departamento,187.33,Lima Pampa,Keluke,2,5,,122.57
+357,departamento,86.34,Cochabamba,Kakhovka,3,2,1,57.81
+358,monoambiente,367.71,Huazhou,Shapaja,4,3,2,107.07
+359,departamento,301.32,Pines,Cervantes,1,2,,144.11
+360,monoambiente,123.79,Jinzao,Wangda,7,5,2,78.01
+361,monoambiente,81.42,Catarina,Contagem,2,2,,116.81
+362,monoambiente,374.35,Vilca,Duoxiang,5,1,,67.14
+363,departamento,236.43,Prachuap Khiri Khan,Bengubelan,2,1,,148.46
+364,departamento,356.83,Antipino,Xiaohekou,6,2,,75.76
+365,departamento,376.33,Kysyl-Syr,Łętownia,5,5,,72.41
+366,departamento,165.39,Vallecillo,Asbestos,7,3,1,122.85
+367,casa,135.59,Jawatiwa,Cajolá,5,5,1,135.8
+368,departamento,95.0,5 de Mayo,Syców,8,2,,143.87
+369,triplex,248.22,Talun,Bello,4,1,,35.6
+370,departamento,156.48,Dunleer,Ponta do Sol,7,3,,60.04
+371,duplex,73.81,Guyam Malaki,Aiximan,4,4,,61.05
+372,departamento,51.03,Beauvais,Alcala,1,2,,23.33
+373,triplex,106.09,Poiares,Husów,10,1,,63.07
+374,departamento,113.64,Angkimang,Leksand,4,1,2,74.98
+375,triplex,103.55,Dukhovnitskoye,Lizhuang,8,1,,41.35
+376,monoambiente,188.3,Ust’-Ulagan,Longping,10,2,,8.5
+377,duplex,151.85,Rialma,Shahrīār,1,1,2,88.66
+378,monoambiente,307.03,Kisarazu,San Andrés,5,3,,71.87
+379,monoambiente,384.77,Pingzhuang,Oesena,1,1,2,147.03
+380,departamento,212.88,Akoupé,Urazovo,3,5,1,17.63
+381,monoambiente,111.49,Reutlingen,Tyazhinskiy,2,4,2,105.46
+382,piso,385.07,Francisco Beltrão,Pendiqing,2,1,,38.49
+383,departamento,292.71,Proletarskiy,Changshou,2,1,,73.38
+384,departamento,361.7,Eustaquio Lopez,Shetangpo,5,5,,129.04
+385,departamento,202.88,Usogorsk,Wanshan,4,5,1,21.04
+386,duplex,170.74,Ganné Tiqwa,Lenešice,6,4,,78.23
+387,departamento,373.12,Vargem Grande do Sul,Tupesy,4,1,2,92.74
+388,departamento,139.54,Caen,Monaragala,3,5,,128.1
+389,monoambiente,217.28,Hehu,Batangafo,10,2,,135.56
+390,triplex,188.39,Loreto,Madrid,4,5,,39.72
+391,monoambiente,221.99,Armenta,Zhoujiadian,2,3,,63.29
+392,departamento,380.6,Bozoum,Vitali,10,3,,20.58
+393,duplex,233.73,Paltamo,Centenary,1,2,,34.56
+394,casa,345.01,Soriano,Brescia,5,5,,121.47
+395,monoambiente,280.41,Sargodha,Suslonger,8,2,1,138.94
+396,monoambiente,143.91,Yanyang,Urbiztondo,6,2,,20.76
+397,departamento,377.09,Imsil,Changjiang,1,4,2,110.67
+398,departamento,230.54,Communal,Yunguyo,2,1,,7.76
+399,duplex,381.86,Maanĭt,Huerta Grande,4,3,,106.08
+400,departamento,266.18,General Villegas,Ganjiang,7,1,1,78.19
+401,monoambiente,265.55,Teresita,Guamal,3,4,,26.14
+402,departamento,80.4,Ciawitali,Shijiazhuang,10,5,,98.65
+403,monoambiente,365.77,Kokshetau,Dąbie,4,5,,72.03
+404,departamento,189.98,Voloka,Novotroitsk,1,5,,131.07
+405,departamento,269.77,Lekaj,Vaasa,7,2,,89.8
+406,monoambiente,72.73,Sattahip,Prachamtakham,10,5,,63.95
+407,monoambiente,146.02,Slovenj Gradec,Khuan Don,7,5,1,70.47
+408,departamento,351.39,San Marcos,Porto União,9,3,,14.56
+409,monoambiente,82.47,At-Bashi,Owczarnia,5,4,,44.83
+410,monoambiente,206.64,Midrand,Andrushivka,2,1,,26.39
+411,departamento,81.2,Fenghuangshan,Poxi,6,4,2,67.82
+412,departamento,210.32,Bagamoyo,Dĩ An,6,5,2,114.74
+413,departamento,142.89,Nangkasari,Sanfang,2,4,2,15.1
+414,monoambiente,333.7,Hovås,Dzaoudzi,4,4,,12.83
+415,monoambiente,372.51,Fangxiang,Ginebra,6,3,2,70.48
+416,departamento,90.9,Motala,Buraen,7,4,2,121.89
+417,departamento,227.2,Jiangguanchi,Kashiwazaki,2,3,,31.46
+418,casa,229.8,Venlo,Néo Psychikó,8,2,,76.15
+419,departamento,377.61,Qiangtou,Shangxing,1,4,2,48.04
+420,departamento,53.23,Na Klang,Yinjiang,10,4,,46.93
+421,departamento,308.6,Kimito,Le Hochet,8,4,,145.83
+422,departamento,137.36,Chhātak,Forécariah,8,3,1,90.63
+423,casa,283.96,Ussel,Basco,7,4,,125.81
+424,departamento,56.11,Cileunyi,Tankhoy,6,1,,41.28
+425,monoambiente,330.58,Vischongo,Luksuhin,10,2,,36.68
+426,duplex,335.11,Meaux,Diez de Octubre,7,4,,51.11
+427,monoambiente,242.75,Bintulu,Arsen’yev,2,4,,123.88
+428,duplex,209.66,Manique,Vlissingen,3,5,,58.89
+429,monoambiente,153.57,Amsterdam Binnenstad en Oostelijk Havengebied,Garang,4,3,,102.19
+430,departamento,330.18,Marina,Velká Bíteš,6,1,,28.05
+431,triplex,323.24,Meishan,Dalamdesa Kalapadua,5,4,,141.43
+432,departamento,386.36,Nakhodka,Emiliano Zapata,6,1,,72.73
+433,monoambiente,175.15,Manogay,Ouzini,7,3,1,25.91
+434,departamento,175.95,Taiping,Jönköping,1,3,,26.05
+435,monoambiente,284.36,San Diego,Dukhovnitskoye,9,1,,38.66
+436,triplex,210.48,Huolu,Uyutne,2,3,1,35.5
+437,departamento,340.66,Feitoria,Dobroměřice,5,4,,58.81
+438,departamento,168.2,Honglai,La Falda,1,4,,33.87
+439,duplex,75.72,Coronel Suárez,Saatlı,3,5,,147.07
+440,departamento,262.5,Masjed Soleymān,Petrolina de Goiás,8,4,,57.89
+441,monoambiente,289.34,Sosnovyy Bor,Qaraçuxur,2,2,,72.74
+442,monoambiente,110.35,London,Chanuman,10,2,1,100.45
+443,departamento,167.85,Hashaat,Krychaw,8,4,,70.74
+444,departamento,88.84,Beranci,Ōhara,3,1,,81.34
+445,departamento,238.92,Pančevo,Baška Voda,10,5,,60.31
+446,departamento,298.55,Sundsvall,Buynaksk,8,3,1,139.14
+447,departamento,226.75,Chengzhong,Askersund,4,5,1,48.9
+448,departamento,147.85,Honglu,København,6,1,,95.58
+449,departamento,123.27,Araçatuba,Alor Setar,7,5,,111.47
+450,departamento,342.8,Armen,Belene,4,4,1,54.19
+451,departamento,224.61,Aparecida,San Juan del Cesar,5,3,,121.36
+452,departamento,141.53,Salerno,Koronadal,9,1,,105.57
+453,departamento,325.91,Cicayur,Forshaga,4,2,1,84.58
+454,departamento,74.73,Nyandoma,Ejidal,2,4,,111.61
+455,monoambiente,397.59,Mandalt,Panyingkiran,9,5,,133.77
+456,duplex,313.9,Samobor,Siborong-borong,1,3,1,131.08
+457,monoambiente,296.71,Kolsh,Barrunchal,2,1,2,95.77
+458,triplex,394.77,Sison,Rogóźno,4,4,2,37.93
+459,monoambiente,335.8,Carcarañá,Hobart,8,4,,21.17
+460,departamento,79.57,Penedo,Mojkovac,4,4,1,4.95
+461,departamento,97.62,Torres Novas,Tomay Kichwa,4,1,1,41.08
+462,departamento,130.78,Néa Ankhíalos,Sivaki,10,3,,19.54
+463,monoambiente,275.9,San Ramon,Kíti,4,3,1,120.79
+464,departamento,111.44,Pontevedra,Gabasumdo,10,1,,48.74
+465,monoambiente,290.47,Kouqian,Cerro Blanco,4,5,,13.79
+466,departamento,132.69,Froly,Yuandianhui,7,3,,67.38
+467,departamento,346.38,Khujirt,Soly,2,2,,93.39
+468,departamento,239.94,U Minh,Slovenske Konjice,2,1,,31.1
+469,departamento,269.01,Querobamba,Bunut,10,5,,44.78
+470,departamento,189.57,Powidz,Dahuang,2,1,,17.73
+471,departamento,93.87,Sirājganj,Pagaruša,6,1,1,107.05
+472,departamento,157.43,Rizal,Winduraja,9,2,2,49.39
+473,departamento,349.01,Cincinnati,Oughterard,2,1,,61.39
+474,departamento,210.0,Dąbie,Jelbuk,4,1,,80.53
+475,monoambiente,173.12,Lakhdenpokh’ya,Aoshi,3,3,,82.9
+476,triplex,316.06,Sainte-Anne-de-Bellevue,Lökbatan,6,5,,91.56
+477,departamento,94.31,Salacgrīva,Chicago,10,5,,2.21
+478,departamento,274.57,Sambir,Henglin,6,4,,6.44
+479,triplex,324.26,Cáceres,Valença do Douro,5,5,,79.13
+480,triplex,209.88,Santa Cruz,Isperikh,6,5,2,75.06
+481,duplex,62.5,Novokuybyshevsk,Cilegi,5,4,,110.11
+482,monoambiente,190.68,Batán,Kuala Lumpur,1,3,,141.15
+483,piso,307.23,Yanglin,Balitai,2,3,,130.99
+484,duplex,387.5,Xinhe,Uppsala,8,1,,85.69
+485,departamento,259.2,Cikiwul Satu,Dengteke,5,5,,141.18
+486,departamento,297.0,Chartres,Fort Smith,5,3,,58.19
+487,departamento,176.34,Nakatsugawa,Roma,1,3,,149.05
+488,departamento,81.08,Souto,Schaan,8,5,,131.69
+489,departamento,270.83,Miribel,Orlando,6,4,,47.55
+490,monoambiente,164.26,Shuangtang,Bantarmangu,5,3,,65.78
+491,triplex,161.19,Puerto de Nutrias,Bijia,8,2,2,97.53
+492,departamento,186.24,Kislovodsk,Colorado Springs,8,4,,112.15
+493,piso,174.85,Lyublino,Mongaguá,7,1,,52.63
+494,monoambiente,394.45,Chiguang,Golčův Jeníkov,8,5,,136.84
+495,casa,72.63,Paris 14,Faro,2,2,,10.04
+496,departamento,228.04,Norrköping,Borovskoy,7,3,,61.28
+497,monoambiente,214.01,Jishi,Oster,9,3,2,12.66
+498,departamento,196.39,Butubut Norte,Maglajani,2,4,,78.25
+499,departamento,97.09,Tugu,Pillpinto,7,3,2,122.99
+500,triplex,346.72,Paris 09,Kurkino,5,2,2,63.29
+501,departamento,293.05,Schaumburg,Bailai,8,3,1,147.33
+502,departamento,317.2,Calape,Torbeck,9,2,,1.56
+503,departamento,364.14,Bobrowice,Tall Salḩab,10,2,,4.45
+504,monoambiente,143.9,Shuguang,Veliki Preslav,1,5,,134.07
+505,casa,215.88,Jabłonowo Pomorskie,Zwettl,7,5,,68.03
+506,departamento,224.62,Aku,Dārayyā,5,3,,122.47
+507,duplex,295.03,Suchań,Hroznětín,2,3,,76.53
+508,departamento,301.99,Xingfeng,Novi Bečej,5,1,1,116.48
+509,monoambiente,284.53,Baratã,Kuroda,3,1,1,129.58
+510,triplex,366.33,Donghai,Newport News,7,3,2,97.84
+511,departamento,99.73,Dongyangzhen,Žacléř,7,4,2,55.74
+512,departamento,170.87,Staromyshastovskaya,Novopavlovsk,8,4,,85.09
+513,departamento,384.02,Ehen Hudag,Abades,6,5,,79.95
+514,departamento,98.86,Autun,Kafue,5,3,1,44.63
+515,monoambiente,266.5,Lakbok,Mae Fa Luang,8,2,,134.3
+516,departamento,98.23,Alaghsas,Pokrov,6,4,,144.54
+517,monoambiente,109.95,Kanlagay,Alquerubim,5,2,,58.53
+518,departamento,278.36,Chicacao,Masindi,7,2,2,23.55
+519,departamento,127.09,Shaoguan,Stockholm,1,1,,75.42
+520,departamento,242.95,Sidi Slimane,Jablanovec,6,2,1,25.88
+521,departamento,351.67,Santa Elena,Nangkapayung,7,3,,132.67
+522,departamento,201.64,Unión,Al Lagowa,9,3,,107.15
+523,monoambiente,281.03,Mamonit,Ljungby,10,3,1,78.86
+524,departamento,369.62,Nový Knín,Vân Đình,8,3,,52.0
+525,departamento,162.53,Ōgaki,Bago,4,4,,108.11
+526,departamento,285.3,Pulau Pinang,Cimo de Vila,7,3,2,91.45
+527,departamento,398.03,Moca,Hamanoichi,7,4,,60.76
+528,departamento,78.82,Sim,Roun Satu,9,2,,39.27
+529,triplex,299.89,Sơn Tây,Mardīān,3,1,,116.55
+530,monoambiente,237.71,Uppsala,Kuching,7,2,,106.49
+531,departamento,330.56,Zhangxi,Changbao,4,5,2,106.98
+532,piso,198.22,Veles,Nang Rong,3,2,2,124.42
+533,monoambiente,357.32,Hāla,Rutana,4,4,,24.52
+534,departamento,207.98,Wanmao,Toulon,3,2,,142.93
+535,monoambiente,327.85,Ban Lam Luk Ka,Xintang,3,4,,147.74
+536,departamento,153.37,Urek-urek,Lopatyn,3,3,,122.29
+537,departamento,148.74,Kumba,Nagaoka,7,1,,130.78
+538,duplex,123.59,Gunungsubang,Sladna,7,3,,121.96
+539,departamento,393.32,Yi’an,Quezaltepeque,6,5,,54.51
+540,departamento,56.2,Trzebnica,Sumbawa Besar,1,4,,55.49
+541,monoambiente,386.95,Fuxin,Bilüü,10,1,,97.7
+542,monoambiente,185.31,Courbevoie,Uwa,9,3,1,134.61
+543,departamento,268.79,Dongsheng,Dao,9,3,,109.37
+544,monoambiente,200.63,San Rafael,Brailiv,7,1,,29.38
+545,triplex,398.16,Replot,Zheleznogorsk,8,2,,121.42
+546,departamento,367.02,Caloue,Nyachera,6,5,1,141.45
+547,triplex,114.36,Dalun,Álli Meriá,5,1,,16.98
+548,departamento,391.48,Pengbu,Sacsamarca,10,4,,11.81
+549,departamento,154.25,Senovo,Bontang,3,1,,135.98
+550,departamento,325.48,Tumpakkepuh,Domartang,5,5,,6.06
+551,departamento,388.78,Korotych,Yuecheng,5,4,,53.22
+552,departamento,215.7,Korolevo,Punata,2,4,,131.14
+553,departamento,167.51,Sayansk,Lop,2,2,,145.28
+554,departamento,148.41,Nanxing,Cravinhos,2,4,2,49.38
+555,departamento,291.06,Abomey,Midões,10,1,1,110.85
+556,piso,66.87,Hostomice,Teresópolis,3,2,1,108.6
+557,duplex,136.36,Ponce,Waco,10,3,,126.57
+558,triplex,280.98,Patos de Minas,Independencia,1,5,1,35.28
+559,monoambiente,218.64,Boyu,Dniprovka,4,2,,114.47
+560,departamento,213.37,Bakau,Ganzi,4,4,,140.71
+561,monoambiente,315.57,Hualongyan,Youyang,8,2,1,105.61
+562,monoambiente,110.51,Shajia’ao,Täby,5,4,,88.54
+563,monoambiente,89.8,Máncora,Paoay,1,3,,102.39
+564,departamento,350.55,Hutag,Haputale,8,1,,56.78
+565,departamento,221.32,Troyes,Pasadena,2,4,,75.76
+566,departamento,307.73,Samur,Sassandra,8,5,,15.38
+567,departamento,64.45,Pocohuanca,Yunmenling,9,4,,48.01
+568,triplex,184.61,Pajarillo,Datar,10,4,,72.69
+569,departamento,170.46,Purral,Burgersfort,4,1,,127.26
+570,departamento,209.5,Novozavedennoye,Srostki,5,3,,118.3
+571,departamento,210.35,Łętownia,Värnamo,6,4,,65.63
+572,monoambiente,314.59,Bilian,Abashiri,1,3,,56.49
+573,piso,127.34,Przyborów,Kulautuva,8,4,2,132.59
+574,triplex,176.07,Salgar,Heilongkou,4,3,,123.2
+575,departamento,193.18,Bijie,Lushnjë,4,5,,117.26
+576,triplex,301.37,Bontoc,Sapele,2,4,,49.31
+577,triplex,330.26,Chaihe,Cikarang,6,3,,36.99
+578,monoambiente,250.06,Yufrus,Paris 13,6,1,,98.48
+579,monoambiente,141.19,Karangsari,San Luis,7,4,,125.67
+580,monoambiente,65.92,Taubaté,Mae Hi,9,3,,87.81
+581,departamento,321.6,Tavira,Nelidovo,4,5,,132.45
+582,departamento,250.25,Ozatlán,Guandi,6,5,2,69.59
+583,departamento,153.75,Kebonbencoy,Ayní,7,1,,30.25
+584,departamento,85.63,Wola Rębkowska,Stavanger,8,3,,126.79
+585,departamento,259.04,Tanabi,Avignon,2,2,2,146.42
+586,monoambiente,194.29,Mori,Kamphaeng Phet,3,5,,69.49
+587,piso,280.34,Cihaur,Kant,2,2,1,122.5
+588,monoambiente,391.4,Nunleu,Babice,2,1,1,120.27
+589,departamento,181.1,Tuusula,Nanshe,5,5,,130.4
+590,monoambiente,221.96,Mazra‘at Bayt Jinn,Gampaha,8,5,,12.77
+591,piso,366.49,Volgograd,Broby,1,3,1,129.09
+592,monoambiente,361.4,Karang,Mvomero,6,5,,135.39
+593,triplex,336.78,Fengjiang,Walton,3,5,,44.0
+594,departamento,176.62,De la Paz,Sanhu,1,4,,139.55
+595,duplex,277.58,Mýki,Caoxi,7,3,,25.03
+596,monoambiente,313.98,Pigí,Newlands,4,3,,10.61
+597,piso,286.05,Rasskazovo,Kantharalak,9,5,,121.86
+598,departamento,241.63,Kolokani,Korniyivka,3,4,2,124.04
+599,departamento,320.18,Phrae,Hermosa,3,1,,76.24
+600,duplex,160.43,Akunk’,Gorna Oryakhovitsa,6,1,,116.14
+601,duplex,283.91,Littleton,Ngrejo,1,2,,38.0
+602,piso,83.26,Bouaflé,Barrī ash Sharqī,5,5,,141.11
+603,triplex,212.97,Krasnystaw,Żarki-Letnisko,2,4,2,32.61
+604,departamento,223.41,Madala,San Matías,2,2,1,63.08
+605,departamento,277.92,Kramators’k,Panolan,2,5,,69.56
+606,monoambiente,128.2,Plast,Somita,2,4,1,127.83
+607,departamento,345.36,Akron,Edineţ,7,1,,143.31
+608,triplex,208.97,Capacmarca,Chanthaburi,6,5,,62.15
+609,departamento,220.79,Otse,Siso,5,2,,64.33
+610,triplex,251.34,Skärhamn,Vnorovy,7,1,,56.87
+611,triplex,257.11,Longcheng,Xindai,10,5,,132.87
+612,departamento,339.82,Tabuk,Vila Fria,8,3,,6.25
+613,departamento,193.88,Goundi,São Lourenço da Mata,9,1,,106.37
+614,monoambiente,112.41,Yongledian,Canoas,6,2,1,57.15
+615,departamento,343.79,Lilla Edet,Ribeira,9,2,1,78.03
+616,departamento,372.25,Tangwang,Manganitu,4,4,1,17.11
+617,duplex,191.7,Punsu,Arada,3,2,,61.6
+618,departamento,351.88,Shuibian,Pantian,6,2,1,9.84
+619,departamento,384.68,Outing,Novoaltaysk,5,3,2,30.95
+620,departamento,347.48,Delson,Bal’shavik,10,5,2,3.38
+621,departamento,393.01,Samanggen,Mama,5,4,1,22.47
+622,departamento,67.91,Liloy,Połomia,8,1,,53.22
+623,departamento,239.4,Matviyivka,Baishi,3,5,1,21.25
+624,departamento,134.38,Katrineholm,Nong Ki,5,3,,106.19
+625,triplex,378.36,Espírito Santo do Pinhal,Gävle,8,5,1,145.74
+626,triplex,270.88,Az Zuwaytīnah,Serra D'El Rei,1,1,,34.0
+627,departamento,200.51,Bafoussam,Issoudun,8,2,2,117.18
+628,departamento,119.34,Burgos,Shunling,4,1,,96.68
+629,departamento,179.58,Khatanga,Ozërsk,2,3,,85.22
+630,departamento,276.1,Puyan,Kalemie,7,3,,71.97
+631,departamento,207.15,Yangji,Arboga,2,1,,65.47
+632,departamento,128.26,Zdíkov,Zungeru,6,1,,132.36
+633,triplex,343.3,Wārāh,Phu Kam Yao,3,3,,24.7
+634,monoambiente,168.05,Niedzica,Ramenki,7,1,1,126.51
+635,duplex,83.11,Dresden,Ağdaş,2,4,,14.57
+636,triplex,283.95,Kribi,Ongi,3,5,,146.38
+637,departamento,162.32,Huangchen,Purac,9,4,,78.41
+638,departamento,224.22,Xiaoyan,Songgang,9,3,,70.78
+639,monoambiente,249.51,Gonzalo Pizarro,Krajan Dua Sumbersari,3,1,2,62.68
+640,piso,51.82,Elassóna,Wissembourg,5,1,2,149.28
+641,departamento,248.85,Amirdzhan,Concepción de la Barranca,6,1,,84.86
+642,departamento,73.86,Lijiaping,Würzburg,6,5,,115.92
+643,triplex,213.28,Blainville,Shinpokh,9,2,1,19.0
+644,departamento,196.76,Antipino,Klisura,3,2,1,49.05
+645,triplex,53.97,Tuanjie,Dalang,3,4,,135.18
+646,monoambiente,130.61,Baie-Comeau,Kamionka Strumitowa,9,2,,37.5
+647,departamento,188.46,Lianshan,Tabuc Pontevedra,1,5,,45.97
+648,departamento,333.19,Pingshui,Lisewo Malborskie,5,2,,62.83
+649,triplex,297.23,Derjan,Is,7,4,,71.69
+650,departamento,283.48,Berlin,Ban Khlong Bang Sao Thong,9,2,,35.24
+651,monoambiente,256.61,Fakaifou Village,Zhanghua,4,1,,96.24
+652,triplex,193.04,Jengglungharjo,Ghazni,7,4,,42.48
+653,departamento,380.94,Cam Ranh,Shatian,7,2,2,14.3
+654,departamento,244.0,Samoš,Pengxing,2,1,,88.24
+655,departamento,189.38,Changping,Pasirpanjang,10,5,,119.01
+656,departamento,310.0,Quintães,Santa Lucía,10,2,,121.95
+657,monoambiente,147.01,Otrokovice,Fukagawa,8,3,,77.84
+658,casa,215.62,Tuojiang,Daugai,8,2,,89.06
+659,monoambiente,365.16,Tha Tako,Sumiainen,10,2,,22.9
+660,monoambiente,254.02,Bundibugyo,Bílovec,4,5,2,48.46
+661,departamento,261.9,Tinabogan,Shanxia,1,3,,129.08
+662,departamento,52.06,Novokuz’minki,Dolo,3,4,,84.62
+663,duplex,130.44,Atlanta,Miłosław,2,3,,20.99
+664,monoambiente,248.42,Mayfa‘ah,Lobanovo,1,5,,66.09
+665,departamento,248.92,Tengqiao,Tuateta,5,5,2,7.99
+666,departamento,397.49,Huyu,Semarang,6,4,1,111.54
+667,triplex,330.21,Ivry-sur-Seine,Zhaobei,5,1,,144.43
+668,casa,308.38,Notodden,Pinglin,6,1,,71.42
+669,departamento,60.1,Alameda,Būrewāla,3,4,,63.72
+670,monoambiente,374.59,Gros Morne,Castrovirreyna,2,4,,121.19
+671,monoambiente,195.99,Hufeng,Bulu,8,3,,47.81
+672,departamento,291.5,Cikandang,Kamaris,3,2,,39.14
+673,departamento,290.92,Kolo,Pochayiv,8,2,2,51.6
+674,departamento,242.35,Muzayri‘,Penisihan,4,4,2,18.87
+675,departamento,311.52,Petaling Jaya,Hengliang,8,1,2,8.04
+676,casa,375.35,Shatoujiao,Khartsyz’k,3,4,1,110.22
+677,departamento,80.36,Špišić-Bukovica,Saint-Gratien,10,4,,42.52
+678,monoambiente,234.36,Campina Grande,Gaoqiao,8,5,,76.76
+679,duplex,118.9,Góra,Salamina,9,4,2,59.7
+680,departamento,79.98,Angered,Trubchevsk,10,2,2,65.82
+681,monoambiente,295.71,Al Ḩarāk,La Cruz de Taratara,5,4,,87.19
+682,departamento,371.93,Dayou,Heling,8,2,1,51.15
+683,piso,305.53,Gaotuan,Alto del Espino,1,2,2,111.01
+684,piso,313.1,Capela,Jumpangdua,10,3,1,133.61
+685,monoambiente,180.78,Cana Chapetón,Krasnapollye,4,4,1,25.78
+686,monoambiente,118.24,Qiaogu,Lomintsevskiy,1,1,,20.88
+687,departamento,332.89,Itaquaquecetuba,Baizhang,5,1,,40.63
+688,departamento,342.27,Wang Noi,Dan Makham Tia,3,3,,23.65
+689,monoambiente,381.08,Novopokrovka,Katrineholm,10,3,2,136.36
+690,departamento,241.58,Granada,Mopipi,3,2,,44.43
+691,monoambiente,266.69,Troitsk,Quşrah,9,3,2,84.52
+692,casa,159.49,Tiouli,Uzlovaya,8,5,1,31.57
+693,piso,371.18,Changqiao,Hobo,1,4,,123.58
+694,departamento,233.31,Sevlievo,Bintulu,7,3,2,39.7
+695,departamento,307.57,Donggang,Yuncao,6,5,,92.59
+696,monoambiente,123.56,Tokuyama,Yoro,3,5,2,141.92
+697,departamento,265.88,Damatulan,Putina,4,1,,76.51
+698,departamento,94.47,São Francisco do Conde,Pandan,6,3,,94.89
+699,monoambiente,189.51,Changdai,Arlington,1,2,,109.57
+700,departamento,100.6,Zongjia,Miskolc,4,4,,1.97
+701,departamento,396.25,Shimanovsk,Benguela,10,2,,58.32
+702,departamento,117.62,Kuala Terengganu,Energodar,1,1,1,130.1
+703,departamento,259.34,Jiaoyuan,Monaghan,3,5,,25.87
+704,departamento,331.16,Hankasalmi,Puerto Bello,8,3,,73.69
+705,departamento,114.75,Jabat,Meiktila,7,5,2,101.97
+706,monoambiente,371.7,Berlin,Balengbeng,6,5,,48.23
+707,departamento,105.53,Chandmanĭ,Norfolk,4,2,,29.31
+708,monoambiente,343.54,Horana South,Alegre,5,3,,65.96
+709,departamento,391.86,Gardanne,Bantul,8,5,,19.32
+710,departamento,357.87,Dikson,Caibarién,10,5,2,58.5
+711,triplex,281.55,Bayan Hure,Waihi,8,2,,5.28
+712,departamento,339.34,Lamawan,Wąwolnica,2,2,1,46.77
+713,departamento,359.06,Kagawasan,Nuamuzi,9,2,,76.13
+714,departamento,215.33,Karangasem,Comé,3,3,2,109.71
+715,casa,87.26,La Talaudière,La Aurora,6,4,,112.43
+716,departamento,92.2,Beitan,Puerto Rico,2,1,,51.25
+717,departamento,125.29,Yanahuanca,Napnapan,9,1,,5.9
+718,departamento,374.04,Fier,Cabucgayan,5,5,,115.24
+719,casa,147.54,Kandy,Oni,7,3,,82.13
+720,departamento,231.47,Thala,Tibati,7,5,2,69.2
+721,departamento,193.87,Caen,Hezhi,4,1,,54.33
+722,piso,331.59,Tha Ruea,Kurlovo,3,3,,136.12
+723,departamento,74.92,Altıağac,Wanasari Baleran,7,3,,47.8
+724,departamento,223.02,Chuzhou,Bobigny,7,3,,146.23
+725,triplex,235.15,Joševa,Owczarnia,5,5,,68.44
+726,departamento,153.95,Dabachang,La Cumbre,2,1,,32.62
+727,monoambiente,230.17,Mentaras,Jeziora Wielkie,5,5,1,136.74
+728,departamento,375.26,Orekhovo-Borisovo Severnoye,Medellín,8,1,2,122.93
+729,triplex,323.66,Limatambo,Jishan,2,5,,4.59
+730,piso,212.81,Danzi,Hultsfred,2,4,,92.84
+731,departamento,313.52,Gongxi,Iraray,4,4,,71.92
+732,triplex,107.24,Hadano,Margahayu,7,5,,133.25
+733,departamento,336.11,Ceres,Luleå,4,1,,80.63
+734,monoambiente,163.02,Gikongoro,El Calafate,4,3,,10.42
+735,departamento,275.3,Palca,Roissy Charles-de-Gaulle,9,3,1,102.33
+736,departamento,89.44,Soroti,Xixiang,4,2,1,105.78
+737,departamento,69.28,Billings,Pamoyanan,6,5,,87.76
+738,duplex,195.05,Gabahan,Medellín,6,2,,41.36
+739,departamento,154.09,Ajung,Los Pinos,1,1,1,90.98
+740,triplex,132.63,Fatufeto,Buliok,2,1,,19.23
+741,monoambiente,157.57,Decatur,Khilok,7,3,2,125.38
+742,departamento,121.3,Kut Chap,Thaon-les-Vosges,2,1,,38.06
+743,triplex,350.61,Goz Béïda,Soubré,2,1,1,5.12
+744,departamento,190.15,Gaoling,Novalja,6,4,,75.12
+745,departamento,277.43,Mengeš,Pinara,5,4,,75.88
+746,duplex,172.78,Valença do Douro,Cái Dầu,7,1,2,142.13
+747,departamento,286.55,Youzha,Bukor,3,1,,57.05
+748,triplex,333.67,Meedhoo,San Antonio Oeste,8,3,,123.31
+749,triplex,245.38,Dongbatu,Lengor,9,1,,70.59
+750,casa,231.86,Trollhättan,Tombu,1,1,,139.6
+751,departamento,180.22,Balkanabat,Newlands,1,3,1,129.77
+752,departamento,312.18,Fukayachō,Rybie,8,2,1,17.75
+753,departamento,182.17,Taiping,Milovice,1,4,,14.5
+754,monoambiente,61.65,Xinxing,Hushan,3,5,,128.83
+755,triplex,344.43,Sogati,Eustaquio Lopez,1,5,,22.94
+756,duplex,318.65,Bharatpur,Simpang,6,3,,62.61
+757,departamento,148.72,Gjilan,Bantarmangu,5,5,,149.05
+758,departamento,282.08,Hamburg,Carmo do Paranaíba,10,5,,4.84
+759,triplex,263.77,Avon,Nuevo Berlín,5,5,,52.73
+760,monoambiente,289.07,Kuiyong,Pawili,3,2,,121.25
+761,departamento,101.04,Marteleira,Nanping,8,1,,59.6
+762,departamento,126.71,Zhanjia,Härnösand,7,3,1,51.72
+763,departamento,277.43,Ulan Us,Charleston,5,3,,81.17
+764,departamento,124.34,Melrose,Tagana-an,2,5,2,147.29
+765,triplex,201.33,San Roque,Palma Soriano,9,1,2,13.66
+766,departamento,367.43,Vyškov,Saint-Jean-de-Védas,9,1,,140.51
+767,departamento,117.11,Mullsjö,Lerrnanist,10,3,,29.59
+768,departamento,238.78,Thạnh Mỹ,Mulchén,3,1,1,115.89
+769,monoambiente,220.77,Qingguang,Wojnicz,9,3,1,14.66
+770,triplex,197.94,Tønsberg,Francisco I Madero,7,3,2,66.72
+771,departamento,264.53,Cergy-Pontoise,Shi’an,4,2,1,19.92
+772,departamento,292.83,Álftanes,Weyburn,2,1,,10.78
+773,departamento,190.26,Fuhe,Callanca,8,5,,84.16
+774,departamento,323.82,Hezhi,Yanchi,8,3,,115.47
+775,departamento,178.4,Taldyqorghan,Koška,6,5,,48.57
+776,monoambiente,273.23,Luci,Paris 08,1,4,,77.0
+777,departamento,186.47,Rancabuaya,Tonantins,2,2,,34.28
+778,monoambiente,201.37,Thành Phố Hạ Long,Qinghua,5,5,2,16.32
+779,monoambiente,220.73,Doro Oo,Pirapo,2,2,,107.53
+780,triplex,236.87,Yanhe,Briceni,9,2,,9.42
+781,duplex,392.67,Fuzihe,Piaski,5,5,2,132.09
+782,departamento,92.77,Bafang,Vila Verde,1,1,,76.6
+783,triplex,90.05,Granada,Oklahoma City,2,3,,145.4
+784,departamento,287.89,Babahoyo,Guitang,5,1,,117.41
+785,departamento,157.31,Baojia,Troitsk,1,3,1,69.57
+786,piso,270.94,Salinas,Xinchengzi,3,1,,112.3
+787,triplex,375.24,Strömsund,Colomi,8,3,1,83.51
+788,departamento,109.81,Sŭngho 1-tong,Wulan Hada,2,3,1,84.61
+789,monoambiente,285.27,Cigintung,Rado,3,3,1,117.74
+790,triplex,216.76,Sanlei,Novoaltaysk,10,2,2,90.07
+791,monoambiente,267.28,Tanjungbatu,Žebrák,10,2,,17.04
+792,departamento,140.52,Göteborg,Jelcz,9,4,,141.2
+793,departamento,207.23,Girijaya,Napoli,4,4,1,74.2
+794,departamento,336.59,Simitli,Arani,3,4,,107.69
+795,departamento,194.08,Guandi,Los Angeles,10,5,,30.9
+796,monoambiente,250.69,Kilifi,Caála,10,3,,35.15
+797,monoambiente,345.36,Xuetian,Enschede,1,3,,76.03
+798,departamento,279.48,Örebro,Damiao,5,1,,129.88
+799,monoambiente,94.31,Igir-igir,Marseille,8,4,1,41.65
+800,casa,302.77,Linëvo,Saint-Maurice,10,4,,44.35
+801,departamento,159.08,Bongor,Stryszów,6,2,2,41.79
+802,departamento,245.24,Libiąż,Huanza,7,4,,19.32
+803,departamento,281.17,Scholkine,Cunliji,1,5,,72.46
+804,monoambiente,241.72,Minian,Dubki,3,2,1,15.27
+805,departamento,165.35,Getulio,Ipís,3,2,1,102.08
+806,monoambiente,114.2,Ferrol,Norrtälje,2,4,,142.33
+807,monoambiente,231.16,Paisha,Caba,2,1,2,93.13
+808,departamento,200.3,Rubiataba,Rio Claro,1,2,,24.27
+809,duplex,185.47,Kozelets’,Tetyushi,2,2,,132.65
+810,monoambiente,270.3,Kuching,Vila do Bispo,7,3,,100.9
+811,triplex,314.0,El Ingenio,Birendranagar,8,1,,149.11
+812,departamento,59.79,Peristerona,Calape,10,1,,125.84
+813,monoambiente,79.2,Sorren Daya,Överkalix,4,1,,86.92
+814,departamento,295.64,Caparrapí,Pehčevo,9,1,,41.04
+815,monoambiente,179.11,Puzi,Casa Quemada,4,3,,108.62
+816,departamento,171.37,Pasarbaru,Cercal,5,2,,63.15
+817,monoambiente,91.25,Dalong,Haicheng,8,5,1,139.7
+818,monoambiente,239.42,Okhtyrka,San Francisco,9,4,,134.32
+819,piso,319.33,Qŭrghonteppa,Saijō,4,5,,11.41
+820,monoambiente,184.11,Chornorudka,Yongtai,3,4,1,96.16
+821,departamento,297.53,Ningyang,Skýros,3,5,,26.35
+822,triplex,304.94,Bektemir,Kokkini Trimithia,5,1,,83.66
+823,departamento,83.94,Kazimierz Dolny,Pasar,6,5,,146.83
+824,departamento,167.86,Malati,Delft,5,4,,90.59
+825,monoambiente,360.76,Ust’-Ulagan,Wąwolnica,10,4,2,27.17
+826,triplex,228.76,Sacramento,Pitogo,8,3,2,129.34
+827,triplex,392.56,Gobernador Ingeniero Valentín Virasoro,Kostakioí,8,5,,64.16
+828,triplex,122.92,Quibdó,Upernavik,5,5,,137.4
+829,monoambiente,333.63,El Asintal,Quinuabamba,5,4,,38.4
+830,departamento,234.71,Owode,Tubel,6,4,,78.14
+831,monoambiente,83.61,Lubowidz,Mineralnye Vody,5,3,2,38.04
+832,casa,197.21,La Paz de Oriente,Bello,8,4,,17.03
+833,monoambiente,323.78,Bankeryd,Oslo,1,1,,124.0
+834,piso,313.88,San Diego,Netanya,4,5,,131.29
+835,departamento,239.44,Markivka,København,10,5,2,1.39
+836,departamento,226.54,Huancheng,Juren,5,3,1,1.42
+837,departamento,232.71,Obanazawa,Pengulu,5,1,,108.72
+838,duplex,84.64,Babo-Pangulo,Cielmice,4,1,1,15.98
+839,monoambiente,376.78,Klemunan,Tissa,10,5,,46.78
+840,departamento,202.28,Wulipu,Tugusirna,7,5,,51.01
+841,departamento,163.89,Panshi,Trąbki,2,3,,119.13
+842,departamento,295.83,Santa Bernardina,Sukasenang,1,4,,99.39
+843,departamento,230.24,Saint Louis,Colomi,9,1,,41.82
+844,departamento,359.13,Goussainville,Perm,4,2,,48.29
+845,departamento,262.17,Santa Ignacia,Wrocław,10,5,2,72.16
+846,monoambiente,115.39,Taoshan,San Manuel,2,5,1,144.06
+847,triplex,260.24,Yegorlykskaya,Ghār al Milḩ,7,2,2,67.61
+848,departamento,263.65,Budapest,Jönköping,3,2,,70.56
+849,triplex,292.21,Compiègne,Rajsko,3,3,,2.52
+850,departamento,257.87,Beidou,Maoping,9,4,,33.45
+851,triplex,184.18,Nanyi,Lianozovo,10,2,1,82.24
+852,monoambiente,303.27,Banjar Wates Tengah,Sultan Kudarat,7,1,2,9.92
+853,monoambiente,246.59,Gavinhos de Baixo,Mueang Phuket,1,4,,57.22
+854,monoambiente,118.28,Ai Tu,Timpas,5,2,1,104.81
+855,departamento,371.49,Forquilhinha,Aeka,5,4,,112.64
+856,departamento,96.74,Berestechko,Antioquia,5,4,,42.48
+857,duplex,97.53,Toyós,Fenghua,10,3,,83.37
+858,departamento,204.37,Portorož,Thạnh Hóa,2,4,,60.95
+859,departamento,257.06,Rochester,Redakodi,5,1,1,105.48
+860,piso,107.6,Villach,Soho,4,1,,90.31
+861,casa,309.83,Milicz,Muruni,8,5,,80.19
+862,departamento,303.22,Malabor,Dongxiang,8,3,,131.32
+863,departamento,244.31,Gadingrejo,Guéret,6,3,,95.47
+864,departamento,69.86,Kampungdesa,Caijiapu,8,1,,132.87
+865,departamento,92.93,Vágia,Lawdar,5,3,,78.92
+866,departamento,334.52,Ramadi,Hefei,3,2,,128.21
+867,departamento,347.03,Teplice,Xinjie,9,4,1,20.82
+868,departamento,246.74,Orsk,Zhaojia,6,5,,49.64
+869,departamento,125.78,Danané,Chengfeng,2,5,,138.4
+870,monoambiente,258.25,Zhongtang,Galatás,3,2,,147.03
+871,monoambiente,135.95,Cayna,Neuquén,9,1,,90.02
+872,departamento,290.08,Lubniewice,Kirovs’k,3,1,,124.24
+873,monoambiente,180.26,Santo Antônio de Posse,Doksy,7,3,,13.41
+874,triplex,67.86,São Miguel,Potrerillos Arriba,8,3,,100.16
+875,departamento,76.43,Xiluo,Palermo,1,1,,1.57
+876,departamento,184.14,Tubel,Barbudo,6,5,,29.13
+877,departamento,365.42,Mekarsari,Vranje,8,2,,137.88
+878,monoambiente,147.13,Yushan,Konza,9,5,,6.04
+879,triplex,167.79,Dodol,El Espino,3,2,1,128.53
+880,triplex,359.77,Ornontowice,Ringinagung,1,1,,126.22
+881,monoambiente,399.07,Buenavista,Portumna,7,1,,115.37
+882,monoambiente,109.94,Huanggexi,Severnyy,6,3,,79.57
+883,triplex,133.91,Lanigan,Watuagung,2,2,,75.63
+884,monoambiente,67.44,Kotkot,Židlochovice,3,3,,137.9
+885,departamento,338.32,New York City,Ōi,7,5,,149.69
+886,triplex,85.14,Griboyedov,Biny Selo,4,2,,64.49
+887,departamento,95.52,Meicheng,Xinxing,4,1,,91.91
+888,duplex,115.95,Soisy-sous-Montmorency,Lukovo,2,2,,23.82
+889,triplex,189.24,Huangzhuang,Kericho,1,3,,76.47
+890,departamento,387.86,Cilebang Satu,Öndörhoshuu,1,4,,70.77
+891,departamento,198.44,Kcynia,Balugo,8,1,,87.38
+892,monoambiente,365.12,Chimtāl,Grzybowa Góra,6,1,,51.7
+893,departamento,351.73,Takahagi,Radā‘,2,4,,39.56
+894,monoambiente,387.23,Boracéia,Río Gallegos,5,1,2,94.78
+895,departamento,343.66,Birmingham,Caobi,9,2,,93.21
+896,monoambiente,279.27,Tubualá,Puerto Berrío,5,2,,85.07
+897,monoambiente,353.55,Yelizavetinskoye,Lourdes,8,4,,17.31
+898,monoambiente,186.5,Pilar do Sul,Tuanchengshan,3,4,1,120.69
+899,departamento,177.21,Honoria,Ebene,8,2,2,46.47
+900,monoambiente,163.36,Zekou,Abangay,10,1,,60.32
+901,monoambiente,159.21,Punta de Piedra,Majingklak,7,1,,10.43
+902,departamento,178.81,Volodymyrets’,Athens,1,4,,80.59
+903,monoambiente,390.81,Ngaoundéré,Acatenango,3,3,,121.94
+904,triplex,175.92,Anhua Daying,Datangzhuang,7,3,1,141.09
+905,departamento,371.78,Jinchang,Amsterdam Noord west,10,3,,111.87
+906,departamento,372.85,Wangi,Nova Iguaçu,7,4,1,77.49
+907,departamento,151.26,Stavanger,Tekeli,4,2,,53.44
+908,departamento,233.56,Bulubrangsi,São Miguel do Araguaia,9,5,,64.31
+909,departamento,297.16,Chenghe,Zagórnik,2,1,2,36.71
+910,departamento,137.58,Boden,Złoczew,4,2,,59.29
+911,departamento,317.81,Ampeleíes,Nueva Imperial,4,2,,133.14
+912,departamento,228.67,Guinsang-an,Kolonowskie,9,3,2,136.22
+913,triplex,319.36,Yangliu,Las Vegas,9,5,,18.48
+914,departamento,293.41,Karangasem,Jinquan,3,2,1,85.35
+915,departamento,184.66,Jembangan,Bogdanovich,2,2,,58.4
+916,departamento,275.95,Kowary,Tulay,6,1,,134.59
+917,monoambiente,365.67,Glushkovo,Amiens,5,2,1,95.58
+918,departamento,245.25,Liaoyang,Pomar,3,2,,22.99
+919,casa,284.58,Varjota,Lyubokhna,10,3,,46.2
+920,duplex,194.73,Malaga,Cisagu,7,2,,126.31
+921,departamento,364.51,Miracema,Singaparna,1,5,,13.91
+922,triplex,73.4,Las Vegas,Priargunsk,4,5,,55.75
+923,monoambiente,114.04,Klampis,Linköping,2,3,,131.14
+924,departamento,155.95,Altona,Gromadka,1,1,1,44.04
+925,departamento,167.62,Bintuni,Fengxi,1,1,,131.88
+926,monoambiente,56.21,Paris 01,Cipanjang,9,4,2,47.91
+927,monoambiente,217.55,Peñal,Fort Worth,3,5,,75.81
+928,departamento,275.61,Niedercorn,Kelasuri,10,2,1,35.91
+929,departamento,281.95,Krajan Keboromo,Colonia Nicolich,4,1,,6.39
+930,departamento,359.08,Wakduwa’ Barat,Waegwan,9,4,1,30.6
+931,monoambiente,123.88,Tengah,Libouchec,1,4,1,77.47
+932,monoambiente,262.32,Granada,Tarvasjoki,1,5,2,58.76
+933,departamento,339.01,Sacramento,Sil-li,9,5,,140.04
+934,departamento,172.19,Dongguang,Chengnan,3,1,,50.29
+935,departamento,201.37,Bayog,Engenheiro Beltrão,4,2,,73.46
+936,departamento,101.76,Philadelphia,Chóra,2,2,1,141.51
+937,duplex,299.26,Yotala,Az Zubaydāt,3,5,,91.11
+938,triplex,250.38,Yuanjiazhuang,Al Jubayl,2,4,2,134.36
+939,triplex,116.43,Dana,Tarub,8,4,,21.43
+940,monoambiente,206.68,Lagoa do Itaenga,Yishi,5,4,,101.57
+941,departamento,282.41,Sharan,Longquan,5,2,,130.13
+942,duplex,247.9,Göteborg,Xubu,10,3,1,32.93
+943,departamento,123.19,Stadtbredimus,Abades,10,5,1,107.11
+944,departamento,371.08,Saraza,Kallithéa,6,5,,85.4
+945,monoambiente,397.12,Bełżec,Xigangzi,4,2,,70.7
+946,departamento,75.15,Madara,Serra Talhada,1,5,2,148.56
+947,departamento,377.2,Roissy Charles-de-Gaulle,Mertert,10,2,2,95.82
+948,monoambiente,186.61,Linxi,Pendiqing,4,2,1,63.66
+949,departamento,291.42,Troitsk,Liboro,6,3,,10.16
+950,monoambiente,349.96,Sandefjord,Lijie,9,2,,114.31
+951,casa,264.86,New Orleans,Itzig,10,2,,11.14
+952,departamento,309.03,Voskehask,København,9,2,,33.75
+953,departamento,85.36,Bulumulyo,Lagunillas,6,1,,141.51
+954,monoambiente,87.76,La Puerta de San José,Muting,2,4,,7.23
+955,triplex,143.78,Cikadu,Gamping Lor,7,3,,130.01
+956,monoambiente,355.63,Sabanagrande,Mbumi,3,1,,62.09
+957,monoambiente,300.31,Hengxi,Jamshoro,8,5,,144.35
+958,triplex,157.13,Pak Phanang,Vũng Tàu,7,3,2,131.32
+959,monoambiente,364.64,Imbituba,Cortes,9,2,,27.07
+960,departamento,256.81,Wilmington,Ha,4,3,2,27.16
+961,monoambiente,294.91,Los Angeles,Lamego,5,3,,59.33
+962,monoambiente,239.34,Dobra,Santa Fe,4,1,,147.62
+963,monoambiente,380.81,Katsuyama,Łyse,3,1,,52.59
+964,departamento,59.88,Talondang,San Francisco,4,2,1,68.79
+965,departamento,161.11,Lymanske,Jieshipu,9,5,,131.31
+966,monoambiente,319.82,Lamego,Robīt,7,4,1,93.81
+967,triplex,153.92,Burqah,Daying,3,1,,29.88
+968,triplex,226.43,Benito Juarez,Sochaux,1,2,,28.34
+969,casa,104.29,Cusapín,Novyy Urengoy,8,4,2,93.93
+970,departamento,248.41,Yancheng,Alcainça,8,4,1,74.65
+971,monoambiente,313.28,Bateria,Além do Rio,5,3,,108.31
+972,departamento,327.63,Sabanagrande,Rybí,7,3,,5.47
+973,departamento,161.91,Göteborg,Johanneshov,5,2,,69.57
+974,departamento,120.36,Tangwāni,Pljevlja,7,2,1,136.07
+975,departamento,337.46,Filótion,Lypova Dolyna,6,3,,137.25
+976,departamento,80.37,Paris 09,Bratslav,10,4,,145.84
+977,monoambiente,225.25,Brades,Xiangjiazhai,7,5,,20.98
+978,departamento,387.39,Lazaro Cardenas,Urengoy,8,2,,80.84
+979,monoambiente,104.06,Balagui,Gaplek,10,1,,36.22
+980,monoambiente,368.92,Medenychi,Lidköping,3,5,1,90.41
+981,duplex,54.55,Villeneuve-d'Ascq,Moengo,1,2,,84.78
+982,duplex,190.24,Daugavpils,Sydney,5,2,,92.08
+983,casa,255.65,Ariguaní,Lameiras,10,2,,139.91
+984,departamento,254.39,Évry,Karney Shomron,10,4,2,113.13
+985,departamento,111.36,Jonava,Yoshii,2,3,1,11.15
+986,departamento,70.16,Lipahan,Khuan Don,6,3,,6.05
+987,departamento,136.05,Moryń,Nandu,3,1,2,95.58
+988,departamento,131.84,Hikkaduwa,Basel,5,5,1,80.54
+989,piso,321.6,Koroyo,Celorico de Basto,2,3,,130.17
+990,departamento,182.49,Profítis Ilías,Kilmacanoge,2,4,,94.46
+991,departamento,323.4,Santander,Obninsk,8,3,,68.66
+992,triplex,57.41,Gachalá,Jirkov,7,1,,49.13
+993,departamento,152.82,Castelnaudary,Lavradio,10,2,2,31.99
+994,departamento,342.95,Chachoengsao,Vitomarci,8,2,1,4.2
+995,triplex,128.81,Petäjävesi,Lampang,6,1,1,83.35
+996,departamento,392.25,Puncakwangi,Pushkino,9,1,,98.4
+997,departamento,222.21,Sotíra,Lucapon,7,1,,88.47
+998,triplex,333.15,Shengtang,Paitan,2,4,,36.58
+999,casa,288.98,Bealanana,Postoloprty,4,5,,135.16
+1000,departamento,332.81,Golema Rečica,Nybro,9,2,1,146.28
