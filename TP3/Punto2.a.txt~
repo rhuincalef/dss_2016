@@ -1,0 +1,44 @@
+Pasos que hicimos -->
+
+
+El archivo de configuracion para las conexiones esta en --> 
+/etc/postgresql/9.3/main/postgresql.conf
+
+WAL logs --> 
+/var/lib/postgresql/9.3/main/pg_xlog/
+
+
+
+
+http://dba.stackexchange.com/questions/133144/postgresql-write-ahead-logs-archive-mode
+
+
+
+Escritura de logs WAL continua(archive_mode) --> 
+https://www.postgresql.org/docs/9.3/static/continuous-archiving.html
+
+
+Also, you can force a segment switch manually with pg_switch_xlog if you want to ensure that a just-finished transaction is archived as soon as possible. Other utility functions related to WAL management are listed in -->
+https://www.postgresql.org/docs/9.3/static/functions-admin.html#FUNCTIONS-ADMIN-BACKUP-TABLE
+
+
+https://www.postgresql.org/docs/9.3/static/wal-configuration.html
+https://www.postgresql.org/docs/9.1/static/runtime-config-wal.html
+https://www.postgresql.org/docs/9.1/static/wal-internals.html
+
+
+https://www.depesz.com/2011/07/14/write-ahead-log-understanding-postgresql-conf-checkpoint_segments-checkpoint_timeout-checkpoint_warning/
+
+
+http://www.interdb.jp/pg/pgsql09.html
+
+
+
+*Para visualizar los cambios en el WAL log utilizar /usr/lib/postgresql/9.3/bin/pg_xlogdump
+https://www.postgresql.org/docs/devel/static/pgxlogdump.html
+
+
+-Instalar apt-get install postgresql-contrib para herramientas adicionales.
+Ejecutar el comando--> 
+sudo ./pg_controldata /var/lib/postgresql/9.3/main/
+para obtener informacion estadistica acerca de las configuraciones de postgres como DW.
