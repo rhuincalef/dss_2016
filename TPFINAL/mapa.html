@@ -1,0 +1,1224 @@
+
+        <!DOCTYPE html>
+        <head>
+            
+        
+            <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
+        
+        
+        
+            
+        
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
+        
+        
+        
+            
+        
+            <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+        
+        
+        
+            
+            <style>
+
+            html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+                }
+
+            #map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+            
+        
+            
+            <style> #map_b0df214e827c4cacae9b801ddea7aba1 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+        
+        
+        </head>
+        <body>
+            
+        
+            
+            <div class="folium-map" id="map_b0df214e827c4cacae9b801ddea7aba1" ></div>
+        
+        
+        
+        </body>
+        <script>
+            
+        
+            
+
+            var southWest = L.latLng(-90, -180);
+            var northEast = L.latLng(90, 180);
+            var bounds = L.latLngBounds(southWest, northEast);
+
+            var map_b0df214e827c4cacae9b801ddea7aba1 = L.map('map_b0df214e827c4cacae9b801ddea7aba1', {
+                                           center:[0,0],
+                                           zoom: 1,
+                                           maxBounds: bounds,
+                                           layers: [],
+                                           crs: L.CRS.EPSG3857
+                                         });
+            
+        
+        
+            
+            var tile_layer_1236cc3f3df44e8880d462ee57fb4510 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+                    maxZoom: 18,
+                    minZoom: 1,
+                    attribution: 'Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://www.openstreetmap.org/copyright">ODbL</a>.',
+                    detectRetina: false
+                    }
+                ).addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+
+        
+        
+            
+
+            var marker_14744563913a4433892caa069a8a290a = L.marker(
+                [37.09024,-95.712891],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_d56e42b5cb034033b7a89945f15b3c23 = L.popup({maxWidth: '300'});
+
+            
+                var html_3bc39119b1ef4ac9aba7a7d712fab086 = $('         <div id="html_3bc39119b1ef4ac9aba7a7d712fab086"                 style="width: 100.0%; height: 100.0%;">                 Country: USA - Minimo: 7.00 - Maximo: 9.30 - Promedio: 7.54</div>                 ')[0];
+                popup_d56e42b5cb034033b7a89945f15b3c23.setContent(html_3bc39119b1ef4ac9aba7a7d712fab086);
+            
+
+            marker_14744563913a4433892caa069a8a290a.bindPopup(popup_d56e42b5cb034033b7a89945f15b3c23);
+
+            
+        
+        
+            
+
+            var marker_a2f4338b24e444d8b464365825c8d871 = L.marker(
+                [55.378051,-3.435973],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_c9a8738fcac94823bdfa7ceb92b9dff5 = L.popup({maxWidth: '300'});
+
+            
+                var html_b324408424204e63b0ef1094205decd8 = $('         <div id="html_b324408424204e63b0ef1094205decd8"                 style="width: 100.0%; height: 100.0%;">                 Country: UK - Minimo: 7.00 - Maximo: 8.60 - Promedio: 7.50</div>                 ')[0];
+                popup_c9a8738fcac94823bdfa7ceb92b9dff5.setContent(html_b324408424204e63b0ef1094205decd8);
+            
+
+            marker_a2f4338b24e444d8b464365825c8d871.bindPopup(popup_c9a8738fcac94823bdfa7ceb92b9dff5);
+
+            
+        
+        
+            
+
+            var marker_8f1e28037d7b4d489ea5c47363e4937f = L.marker(
+                [-40.900557,174.885971],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_ed259f081ba04c2bb33bfe7a7f9eb8a8 = L.popup({maxWidth: '300'});
+
+            
+                var html_34b271290bf14b00898bbe11341410fd = $('         <div id="html_34b271290bf14b00898bbe11341410fd"                 style="width: 100.0%; height: 100.0%;">                 Country: New Zealand - Minimo: 7.20 - Maximo: 8.80 - Promedio: 7.57</div>                 ')[0];
+                popup_ed259f081ba04c2bb33bfe7a7f9eb8a8.setContent(html_34b271290bf14b00898bbe11341410fd);
+            
+
+            marker_8f1e28037d7b4d489ea5c47363e4937f.bindPopup(popup_ed259f081ba04c2bb33bfe7a7f9eb8a8);
+
+            
+        
+        
+            
+
+            var marker_171bf81ba5be4d46887b9347ab000603 = L.marker(
+                [-25.274398,133.775136],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_f6bdb5d7dbfa4940a73a6fab9234ad61 = L.popup({maxWidth: '300'});
+
+            
+                var html_7e637fe3229b4ea6a4ec06a7564339fd = $('         <div id="html_7e637fe3229b4ea6a4ec06a7564339fd"                 style="width: 100.0%; height: 100.0%;">                 Country: Australia - Minimo: 7.00 - Maximo: 8.10 - Promedio: 7.41</div>                 ')[0];
+                popup_f6bdb5d7dbfa4940a73a6fab9234ad61.setContent(html_7e637fe3229b4ea6a4ec06a7564339fd);
+            
+
+            marker_171bf81ba5be4d46887b9347ab000603.bindPopup(popup_f6bdb5d7dbfa4940a73a6fab9234ad61);
+
+            
+        
+        
+            
+
+            var marker_09c411dad4ad49ba8f33c5cfa4e9e1fb = L.marker(
+                [36.204824,138.252924],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_7bae60d652b44e7a995f5494751b4520 = L.popup({maxWidth: '300'});
+
+            
+                var html_73c350959480400286e6c48b0334b36b = $('         <div id="html_73c350959480400286e6c48b0334b36b"                 style="width: 100.0%; height: 100.0%;">                 Country: Japan - Minimo: 7.00 - Maximo: 8.70 - Promedio: 7.96</div>                 ')[0];
+                popup_7bae60d652b44e7a995f5494751b4520.setContent(html_73c350959480400286e6c48b0334b36b);
+            
+
+            marker_09c411dad4ad49ba8f33c5cfa4e9e1fb.bindPopup(popup_7bae60d652b44e7a995f5494751b4520);
+
+            
+        
+        
+            
+
+            var marker_6070b7ff8acb4dd88242a2decb858538 = L.marker(
+                [35.86166,104.195397],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_d19d48fafec045d1b1433993dae0e403 = L.popup({maxWidth: '300'});
+
+            
+                var html_a6bdb800691d4a7db028a5e2687b11d2 = $('         <div id="html_a6bdb800691d4a7db028a5e2687b11d2"                 style="width: 100.0%; height: 100.0%;">                 Country: China - Minimo: 7.00 - Maximo: 7.90 - Promedio: 7.55</div>                 ')[0];
+                popup_d19d48fafec045d1b1433993dae0e403.setContent(html_a6bdb800691d4a7db028a5e2687b11d2);
+            
+
+            marker_6070b7ff8acb4dd88242a2decb858538.bindPopup(popup_d19d48fafec045d1b1433993dae0e403);
+
+            
+        
+        
+            
+
+            var marker_b45319bbbfaa42778d0ee940bb5e3f2e = L.marker(
+                [56.130366,-106.346771],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_3e81f09c56a946d3a918682cb679c576 = L.popup({maxWidth: '300'});
+
+            
+                var html_58aee6f8f2714edb9a018f40f289969c = $('         <div id="html_58aee6f8f2714edb9a018f40f289969c"                 style="width: 100.0%; height: 100.0%;">                 Country: Canada - Minimo: 7.00 - Maximo: 9.50 - Promedio: 7.46</div>                 ')[0];
+                popup_3e81f09c56a946d3a918682cb679c576.setContent(html_58aee6f8f2714edb9a018f40f289969c);
+            
+
+            marker_b45319bbbfaa42778d0ee940bb5e3f2e.bindPopup(popup_3e81f09c56a946d3a918682cb679c576);
+
+            
+        
+        
+            
+
+            var marker_c33d8c2e4ee841728dfa63f635b51216 = L.marker(
+                [51.165691,10.451526],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_61b4416461f8438bbe4bead8627a464b = L.popup({maxWidth: '300'});
+
+            
+                var html_70ad97752ad8488f9956254dbf6364db = $('         <div id="html_70ad97752ad8488f9956254dbf6364db"                 style="width: 100.0%; height: 100.0%;">                 Country: Germany - Minimo: 7.00 - Maximo: 8.50 - Promedio: 7.56</div>                 ')[0];
+                popup_61b4416461f8438bbe4bead8627a464b.setContent(html_70ad97752ad8488f9956254dbf6364db);
+            
+
+            marker_c33d8c2e4ee841728dfa63f635b51216.bindPopup(popup_61b4416461f8438bbe4bead8627a464b);
+
+            
+        
+        
+            
+
+            var marker_e0027b5869414638bd2eea4e53e25351 = L.marker(
+                [46.227638,2.213749],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_a93b21615cf64aa0947393d127a5b1a5 = L.popup({maxWidth: '300'});
+
+            
+                var html_286c576afa754dfea9a58199889c9725 = $('         <div id="html_286c576afa754dfea9a58199889c9725"                 style="width: 100.0%; height: 100.0%;">                 Country: France - Minimo: 7.00 - Maximo: 8.50 - Promedio: 7.51</div>                 ')[0];
+                popup_a93b21615cf64aa0947393d127a5b1a5.setContent(html_286c576afa754dfea9a58199889c9725);
+            
+
+            marker_e0027b5869414638bd2eea4e53e25351.bindPopup(popup_a93b21615cf64aa0947393d127a5b1a5);
+
+            
+        
+        
+            
+
+            var marker_526480dd79be4989a401d90b533235c8 = L.marker(
+                [40.46366700000001,-3.74922],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_b1bdbe6d0b7b46918e72b8f33b789eaa = L.popup({maxWidth: '300'});
+
+            
+                var html_367f7d1327a54bb98e7341af6dc13b7a = $('         <div id="html_367f7d1327a54bb98e7341af6dc13b7a"                 style="width: 100.0%; height: 100.0%;">                 Country: Spain - Minimo: 7.00 - Maximo: 8.20 - Promedio: 7.49</div>                 ')[0];
+                popup_b1bdbe6d0b7b46918e72b8f33b789eaa.setContent(html_367f7d1327a54bb98e7341af6dc13b7a);
+            
+
+            marker_526480dd79be4989a401d90b533235c8.bindPopup(popup_b1bdbe6d0b7b46918e72b8f33b789eaa);
+
+            
+        
+        
+            
+
+            var marker_390cba9cbc234218a18b1d8e730cff51 = L.marker(
+                [20.593684,78.96288],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_bbe6a515d67241999ccb7a0d5131d829 = L.popup({maxWidth: '300'});
+
+            
+                var html_78f854e6a058426e968811b5e068678e = $('         <div id="html_78f854e6a058426e968811b5e068678e"                 style="width: 100.0%; height: 100.0%;">                 Country: India - Minimo: 7.00 - Maximo: 8.50 - Promedio: 7.68</div>                 ')[0];
+                popup_bbe6a515d67241999ccb7a0d5131d829.setContent(html_78f854e6a058426e968811b5e068678e);
+            
+
+            marker_390cba9cbc234218a18b1d8e730cff51.bindPopup(popup_bbe6a515d67241999ccb7a0d5131d829);
+
+            
+        
+        
+            
+
+            var marker_b9f8ac8fa98f4d0891cd49d2fcd1ffe7 = L.marker(
+                [22.396428,114.109497],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_0dbebc3bb9bb460eb0e4016a5616de4e = L.popup({maxWidth: '300'});
+
+            
+                var html_9467009fc46f4107b6b9f4ef734eb87e = $('         <div id="html_9467009fc46f4107b6b9f4ef734eb87e"                 style="width: 100.0%; height: 100.0%;">                 Country: Hong Kong - Minimo: 7.10 - Maximo: 7.80 - Promedio: 7.36</div>                 ')[0];
+                popup_0dbebc3bb9bb460eb0e4016a5616de4e.setContent(html_9467009fc46f4107b6b9f4ef734eb87e);
+            
+
+            marker_b9f8ac8fa98f4d0891cd49d2fcd1ffe7.bindPopup(popup_0dbebc3bb9bb460eb0e4016a5616de4e);
+
+            
+        
+        
+            
+
+            var marker_c744cbe37c694edba35cf2e87f54a553 = L.marker(
+                [35.907757,127.766922],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_5d8eb9824f074af7b8479cd255ffbdcf = L.popup({maxWidth: '300'});
+
+            
+                var html_5d340bb272c04159954c6954f682b075 = $('         <div id="html_5d340bb272c04159954c6954f682b075"                 style="width: 100.0%; height: 100.0%;">                 Country: South Korea - Minimo: 7.00 - Maximo: 8.40 - Promedio: 7.55</div>                 ')[0];
+                popup_5d8eb9824f074af7b8479cd255ffbdcf.setContent(html_5d340bb272c04159954c6954f682b075);
+            
+
+            marker_c744cbe37c694edba35cf2e87f54a553.bindPopup(popup_5d8eb9824f074af7b8479cd255ffbdcf);
+
+            
+        
+        
+            
+
+            var marker_64fdae9336814dd2ba41d1cd9eefcfe3 = L.marker(
+                [26.3351,17.228331],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_f584c5651e304d22ac8cfb074d4d40f2 = L.popup({maxWidth: '300'});
+
+            
+                var html_61f1a026fbd04f54b950d43a1b313f87 = $('         <div id="html_61f1a026fbd04f54b950d43a1b313f87"                 style="width: 100.0%; height: 100.0%;">                 Country: Libya - Minimo: 8.40 - Maximo: 8.40 - Promedio: 8.40</div>                 ')[0];
+                popup_f584c5651e304d22ac8cfb074d4d40f2.setContent(html_61f1a026fbd04f54b950d43a1b313f87);
+            
+
+            marker_64fdae9336814dd2ba41d1cd9eefcfe3.bindPopup(popup_f584c5651e304d22ac8cfb074d4d40f2);
+
+            
+        
+        
+            
+
+            var marker_acf66fc476404495a15e51427502fdbe = L.marker(
+                [23.634501,-102.552784],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_9317694b5620474692cd552addc2ced3 = L.popup({maxWidth: '300'});
+
+            
+                var html_1f5cb6865d73420b87c1461e33927d22 = $('         <div id="html_1f5cb6865d73420b87c1461e33927d22"                 style="width: 100.0%; height: 100.0%;">                 Country: Mexico - Minimo: 7.00 - Maximo: 8.10 - Promedio: 7.55</div>                 ')[0];
+                popup_9317694b5620474692cd552addc2ced3.setContent(html_1f5cb6865d73420b87c1461e33927d22);
+            
+
+            marker_acf66fc476404495a15e51427502fdbe.bindPopup(popup_9317694b5620474692cd552addc2ced3);
+
+            
+        
+        
+            
+
+            var marker_da70455c44db47c3b3e19f881784df84 = L.marker(
+                [64.963051,-19.020835],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_0fe5530118744128ab14a84b09252d82 = L.popup({maxWidth: '300'});
+
+            
+                var html_acbe209527e440c6a1298755ccf7f6d7 = $('         <div id="html_acbe209527e440c6a1298755ccf7f6d7"                 style="width: 100.0%; height: 100.0%;">                 Country: Iceland - Minimo: 8.20 - Maximo: 8.20 - Promedio: 8.20</div>                 ')[0];
+                popup_0fe5530118744128ab14a84b09252d82.setContent(html_acbe209527e440c6a1298755ccf7f6d7);
+            
+
+            marker_da70455c44db47c3b3e19f881784df84.bindPopup(popup_0fe5530118744128ab14a84b09252d82);
+
+            
+        
+        
+            
+
+            var marker_309835d8c7c846b39de65b40e73c777a = L.marker(
+                [41.87194,12.56738],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_064bd469c0d1407f9fc808ce016ad823 = L.popup({maxWidth: '300'});
+
+            
+                var html_cc7375929abe403daa5a72cf6aaccffc = $('         <div id="html_cc7375929abe403daa5a72cf6aaccffc"                 style="width: 100.0%; height: 100.0%;">                 Country: Italy - Minimo: 7.00 - Maximo: 8.90 - Promedio: 7.98</div>                 ')[0];
+                popup_064bd469c0d1407f9fc808ce016ad823.setContent(html_cc7375929abe403daa5a72cf6aaccffc);
+            
+
+            marker_309835d8c7c846b39de65b40e73c777a.bindPopup(popup_064bd469c0d1407f9fc808ce016ad823);
+
+            
+        
+        
+            
+
+            var marker_4b71808a89374186ad52e3c994b1d02c = L.marker(
+                [51.2562128,7.150763599999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_c9cda0a8569d49ca904e830ffeb7066e = L.popup({maxWidth: '300'});
+
+            
+                var html_dd8ba4022e904e0391d09191f24c28f3 = $('         <div id="html_dd8ba4022e904e0391d09191f24c28f3"                 style="width: 100.0%; height: 100.0%;">                 Country: West Germany - Minimo: 7.40 - Maximo: 8.40 - Promedio: 7.90</div>                 ')[0];
+                popup_c9cda0a8569d49ca904e830ffeb7066e.setContent(html_dd8ba4022e904e0391d09191f24c28f3);
+            
+
+            marker_4b71808a89374186ad52e3c994b1d02c.bindPopup(popup_c9cda0a8569d49ca904e830ffeb7066e);
+
+            
+        
+        
+            
+
+            var marker_66d27b72761048b0bedf507116b79f8d = L.marker(
+                [52.132633,5.291265999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_9a35dc8e8ad349c3877f8f065e6bf76b = L.popup({maxWidth: '300'});
+
+            
+                var html_f1e087fd303841d79c3f270711c3c8d0 = $('         <div id="html_f1e087fd303841d79c3f270711c3c8d0"                 style="width: 100.0%; height: 100.0%;">                 Country: Netherlands - Minimo: 7.00 - Maximo: 7.80 - Promedio: 7.42</div>                 ')[0];
+                popup_9a35dc8e8ad349c3877f8f065e6bf76b.setContent(html_f1e087fd303841d79c3f270711c3c8d0);
+            
+
+            marker_66d27b72761048b0bedf507116b79f8d.bindPopup(popup_9a35dc8e8ad349c3877f8f065e6bf76b);
+
+            
+        
+        
+            
+
+            var marker_47682b4113e04d088d700d59792b86a7 = L.marker(
+                [8.537981,-80.782127],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_8e2fbd0b29594ee785227286aad6da17 = L.popup({maxWidth: '300'});
+
+            
+                var html_7048a615e2704157a42ae5a02c79449d = $('         <div id="html_7048a615e2704157a42ae5a02c79449d"                 style="width: 100.0%; height: 100.0%;">                 Country: Panama - Minimo: 7.20 - Maximo: 7.20 - Promedio: 7.20</div>                 ')[0];
+                popup_8e2fbd0b29594ee785227286aad6da17.setContent(html_7048a615e2704157a42ae5a02c79449d);
+            
+
+            marker_47682b4113e04d088d700d59792b86a7.bindPopup(popup_8e2fbd0b29594ee785227286aad6da17);
+
+            
+        
+        
+            
+
+            var marker_4a836163ae884b6bad1db42f1c556384 = L.marker(
+                [50.503887,4.469936],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_6c9203bda1a4466f87be9837a4ed61aa = L.popup({maxWidth: '300'});
+
+            
+                var html_346153178a1246ed80d13927a76bdf1c = $('         <div id="html_346153178a1246ed80d13927a76bdf1c"                 style="width: 100.0%; height: 100.0%;">                 Country: Belgium - Minimo: 7.10 - Maximo: 7.10 - Promedio: 7.10</div>                 ')[0];
+                popup_6c9203bda1a4466f87be9837a4ed61aa.setContent(html_346153178a1246ed80d13927a76bdf1c);
+            
+
+            marker_4a836163ae884b6bad1db42f1c556384.bindPopup(popup_6c9203bda1a4466f87be9837a4ed61aa);
+
+            
+        
+        
+            
+
+            var marker_ebeea8c9e329423abc73af6b59f53263 = L.marker(
+                [61.52401,105.318756],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_b3f59ed031844c1ab8c9d9c2937a1302 = L.popup({maxWidth: '300'});
+
+            
+                var html_5b43ec4abf8e449db9a41f67c3cb0334 = $('         <div id="html_5b43ec4abf8e449db9a41f67c3cb0334"                 style="width: 100.0%; height: 100.0%;">                 Country: Russia - Minimo: 7.30 - Maximo: 8.00 - Promedio: 7.60</div>                 ')[0];
+                popup_b3f59ed031844c1ab8c9d9c2937a1302.setContent(html_5b43ec4abf8e449db9a41f67c3cb0334);
+            
+
+            marker_ebeea8c9e329423abc73af6b59f53263.bindPopup(popup_b3f59ed031844c1ab8c9d9c2937a1302);
+
+            
+        
+        
+            
+
+            var marker_bccc2e2b2dc5428d864f5cad47469dc3 = L.marker(
+                [23.69781,120.960515],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_d6e94352e98e4d6ca3ce66c7f1f936a0 = L.popup({maxWidth: '300'});
+
+            
+                var html_59e148cfa06a484db1907650cb6ccb82 = $('         <div id="html_59e148cfa06a484db1907650cb6ccb82"                 style="width: 100.0%; height: 100.0%;">                 Country: Taiwan - Minimo: 7.90 - Maximo: 7.90 - Promedio: 7.90</div>                 ')[0];
+                popup_d6e94352e98e4d6ca3ce66c7f1f936a0.setContent(html_59e148cfa06a484db1907650cb6ccb82);
+            
+
+            marker_bccc2e2b2dc5428d864f5cad47469dc3.bindPopup(popup_d6e94352e98e4d6ca3ce66c7f1f936a0);
+
+            
+        
+        
+            
+
+            var marker_9c90949dbba94b36901a86064cb85e95 = L.marker(
+                [56.26392,9.501785],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_7827a32fc0ba4e02bfe9ed8810890a87 = L.popup({maxWidth: '300'});
+
+            
+                var html_05035daff6fe4994ae5d320711642f46 = $('         <div id="html_05035daff6fe4994ae5d320711642f46"                 style="width: 100.0%; height: 100.0%;">                 Country: Denmark - Minimo: 7.10 - Maximo: 8.30 - Promedio: 7.76</div>                 ')[0];
+                popup_7827a32fc0ba4e02bfe9ed8810890a87.setContent(html_05035daff6fe4994ae5d320711642f46);
+            
+
+            marker_9c90949dbba94b36901a86064cb85e95.bindPopup(popup_7827a32fc0ba4e02bfe9ed8810890a87);
+
+            
+        
+        
+            
+
+            var marker_d5fd1e80b50a435ab0545e5c509dbd3a = L.marker(
+                [51.919438,19.145136],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_cc7f91bddde048bbaf56ee786551b754 = L.popup({maxWidth: '300'});
+
+            
+                var html_3ce4475b98ad4138b3fdae3496d0f7e9 = $('         <div id="html_3ce4475b98ad4138b3fdae3496d0f7e9"                 style="width: 100.0%; height: 100.0%;">                 Country: Poland - Minimo: 7.40 - Maximo: 9.10 - Promedio: 8.25</div>                 ')[0];
+                popup_cc7f91bddde048bbaf56ee786551b754.setContent(html_3ce4475b98ad4138b3fdae3496d0f7e9);
+            
+
+            marker_d5fd1e80b50a435ab0545e5c509dbd3a.bindPopup(popup_cc7f91bddde048bbaf56ee786551b754);
+
+            
+        
+        
+            
+
+            var marker_b2c3bd721f584f0d8fc293184fbf953e = L.marker(
+                [53.41291,-8.24389],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_b3e050035aa941968b3e1229de7aad8d = L.popup({maxWidth: '300'});
+
+            
+                var html_67f5a87a17cf4ee0847699ea2f3349e2 = $('         <div id="html_67f5a87a17cf4ee0847699ea2f3349e2"                 style="width: 100.0%; height: 100.0%;">                 Country: Ireland - Minimo: 7.30 - Maximo: 8.30 - Promedio: 7.75</div>                 ')[0];
+                popup_b3e050035aa941968b3e1229de7aad8d.setContent(html_67f5a87a17cf4ee0847699ea2f3349e2);
+            
+
+            marker_b2c3bd721f584f0d8fc293184fbf953e.bindPopup(popup_b3e050035aa941968b3e1229de7aad8d);
+
+            
+        
+        
+            
+
+            var marker_47eb02647d624c98849e963fffc48ac5 = L.marker(
+                [60.12816100000001,18.643501],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_c065b3e3646d4c4ab5a66842c6440094 = L.popup({maxWidth: '300'});
+
+            
+                var html_7894f389420140f7b0dd43dcee4d4aa0 = $('         <div id="html_7894f389420140f7b0dd43dcee4d4aa0"                 style="width: 100.0%; height: 100.0%;">                 Country: Sweden - Minimo: 7.60 - Maximo: 8.20 - Promedio: 7.95</div>                 ')[0];
+                popup_c065b3e3646d4c4ab5a66842c6440094.setContent(html_7894f389420140f7b0dd43dcee4d4aa0);
+            
+
+            marker_47eb02647d624c98849e963fffc48ac5.bindPopup(popup_c065b3e3646d4c4ab5a66842c6440094);
+
+            
+        
+        
+            
+
+            var marker_8d17090a800b4cf2b66aaf22fe80473f = L.marker(
+                [49.81749199999999,15.472962],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_fd296df5b5884d86b0dcb524eeea194f = L.popup({maxWidth: '300'});
+
+            
+                var html_2cd93d53afd94497978f7cb01a9e3d31 = $('         <div id="html_2cd93d53afd94497978f7cb01a9e3d31"                 style="width: 100.0%; height: 100.0%;">                 Country: Czech Republic - Minimo: 7.10 - Maximo: 7.40 - Promedio: 7.25</div>                 ')[0];
+                popup_fd296df5b5884d86b0dcb524eeea194f.setContent(html_2cd93d53afd94497978f7cb01a9e3d31);
+            
+
+            marker_8d17090a800b4cf2b66aaf22fe80473f.bindPopup(popup_fd296df5b5884d86b0dcb524eeea194f);
+
+            
+        
+        
+            
+
+            var marker_4f8abe65934f4342a158339fb69e8657 = L.marker(
+                [47.162494,19.503304],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_f37fccfa474c46918f5134ef23f3638d = L.popup({maxWidth: '300'});
+
+            
+                var html_037b478d9c0c49f0a8d9795c4d827cd0 = $('         <div id="html_037b478d9c0c49f0a8d9795c4d827cd0"                 style="width: 100.0%; height: 100.0%;">                 Country: Hungary - Minimo: 7.10 - Maximo: 7.10 - Promedio: 7.10</div>                 ')[0];
+                popup_f37fccfa474c46918f5134ef23f3638d.setContent(html_037b478d9c0c49f0a8d9795c4d827cd0);
+            
+
+            marker_4f8abe65934f4342a158339fb69e8657.bindPopup(popup_f37fccfa474c46918f5134ef23f3638d);
+
+            
+        
+        
+            
+
+            var marker_218d3648eca340a1868ae5a23becd9a6 = L.marker(
+                [-14.235004,-51.92528],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_7207e2c1fbbe402eb554637d24eb1f6f = L.popup({maxWidth: '300'});
+
+            
+                var html_f30106f28bf34a778e3d9e6a5d7af791 = $('         <div id="html_f30106f28bf34a778e3d9e6a5d7af791"                 style="width: 100.0%; height: 100.0%;">                 Country: Brazil - Minimo: 7.50 - Maximo: 8.70 - Promedio: 8.04</div>                 ')[0];
+                popup_7207e2c1fbbe402eb554637d24eb1f6f.setContent(html_f30106f28bf34a778e3d9e6a5d7af791);
+            
+
+            marker_218d3648eca340a1868ae5a23becd9a6.bindPopup(popup_7207e2c1fbbe402eb554637d24eb1f6f);
+
+            
+        
+        
+            
+
+            var marker_b996f766ad3a405e870fc83e6be49eec = L.marker(
+                [61.92410999999999,25.748151],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_e990404e20c6456199c069ff98d6b729 = L.popup({maxWidth: '300'});
+
+            
+                var html_4362dc84d6a34383b775602218df4086 = $('         <div id="html_4362dc84d6a34383b775602218df4086"                 style="width: 100.0%; height: 100.0%;">                 Country: Finland - Minimo: 7.20 - Maximo: 7.20 - Promedio: 7.20</div>                 ')[0];
+                popup_e990404e20c6456199c069ff98d6b729.setContent(html_4362dc84d6a34383b775602218df4086);
+            
+
+            marker_b996f766ad3a405e870fc83e6be49eec.bindPopup(popup_e990404e20c6456199c069ff98d6b729);
+
+            
+        
+        
+            
+
+            var marker_54d47b231b5b4e52ab22c2041f8f4b35 = L.marker(
+                [-38.416097,-63.61667199999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_750df9b213734b41843dd8b4631e09a9 = L.popup({maxWidth: '300'});
+
+            
+                var html_a7f1aa813681421da2c2d1f5263affea = $('         <div id="html_a7f1aa813681421da2c2d1f5263affea"                 style="width: 100.0%; height: 100.0%;">                 Country: Argentina - Minimo: 7.20 - Maximo: 8.20 - Promedio: 7.77</div>                 ')[0];
+                popup_750df9b213734b41843dd8b4631e09a9.setContent(html_a7f1aa813681421da2c2d1f5263affea);
+            
+
+            marker_54d47b231b5b4e52ab22c2041f8f4b35.bindPopup(popup_750df9b213734b41843dd8b4631e09a9);
+
+            
+        
+        
+            
+
+            var marker_ed46f6c2a23d415bac2b81c21ca49f03 = L.marker(
+                [4.570868,-74.297333],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_41973f82c1df48588f7db0c2e0f03dfd = L.popup({maxWidth: '300'});
+
+            
+                var html_89a15f2e253a4dc089f3f866f739dce9 = $('         <div id="html_89a15f2e253a4dc089f3f866f739dce9"                 style="width: 100.0%; height: 100.0%;">                 Country: Colombia - Minimo: 7.50 - Maximo: 7.50 - Promedio: 7.50</div>                 ')[0];
+                popup_41973f82c1df48588f7db0c2e0f03dfd.setContent(html_89a15f2e253a4dc089f3f866f739dce9);
+            
+
+            marker_ed46f6c2a23d415bac2b81c21ca49f03.bindPopup(popup_41973f82c1df48588f7db0c2e0f03dfd);
+
+            
+        
+        
+            
+
+            var marker_7da95513abb84a50abe029f3d0d6feb8 = L.marker(
+                [31.046051,34.851612],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_1eb521e6bd8f4ec8a62f7f117e77d552 = L.popup({maxWidth: '300'});
+
+            
+                var html_6baf67f202344554acdb41b1f7cf9efb = $('         <div id="html_6baf67f202344554acdb41b1f7cf9efb"                 style="width: 100.0%; height: 100.0%;">                 Country: Israel - Minimo: 7.20 - Maximo: 8.00 - Promedio: 7.53</div>                 ')[0];
+                popup_1eb521e6bd8f4ec8a62f7f117e77d552.setContent(html_6baf67f202344554acdb41b1f7cf9efb);
+            
+
+            marker_7da95513abb84a50abe029f3d0d6feb8.bindPopup(popup_1eb521e6bd8f4ec8a62f7f117e77d552);
+
+            
+        
+        
+            
+
+            var marker_3b2f4f27576b45588af1c1e71eae54d6 = L.marker(
+                [26.820553,30.802498],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_40853c9a5c07479f8ca3a36618310cf2 = L.popup({maxWidth: '300'});
+
+            
+                var html_9f77d8abbf6948ea9e57dd32e65dcdf0 = $('         <div id="html_9f77d8abbf6948ea9e57dd32e65dcdf0"                 style="width: 100.0%; height: 100.0%;">                 Country: Egypt - Minimo: 8.10 - Maximo: 8.10 - Promedio: 8.10</div>                 ')[0];
+                popup_40853c9a5c07479f8ca3a36618310cf2.setContent(html_9f77d8abbf6948ea9e57dd32e65dcdf0);
+            
+
+            marker_3b2f4f27576b45588af1c1e71eae54d6.bindPopup(popup_40853c9a5c07479f8ca3a36618310cf2);
+
+            
+        
+        
+            
+
+            var marker_f226181b6ea2449ab685552da3708f0d = L.marker(
+                [45.943161,24.96676],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_119c590522594b688c2d059546dbb532 = L.popup({maxWidth: '300'});
+
+            
+                var html_677181f2f3284ca0a9e3b6f8cb7abe81 = $('         <div id="html_677181f2f3284ca0a9e3b6f8cb7abe81"                 style="width: 100.0%; height: 100.0%;">                 Country: Romania - Minimo: 7.10 - Maximo: 7.90 - Promedio: 7.50</div>                 ')[0];
+                popup_119c590522594b688c2d059546dbb532.setContent(html_677181f2f3284ca0a9e3b6f8cb7abe81);
+            
+
+            marker_f226181b6ea2449ab685552da3708f0d.bindPopup(popup_119c590522594b688c2d059546dbb532);
+
+            
+        
+        
+            
+
+            var marker_641860bea2214f90b9f8245d513fe081 = L.marker(
+                [41.20438,74.766098],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_bc18866c02004c2e946ba6acb2084b8e = L.popup({maxWidth: '300'});
+
+            
+                var html_8479c8ee92d442d595ccb421cef8146c = $('         <div id="html_8479c8ee92d442d595ccb421cef8146c"                 style="width: 100.0%; height: 100.0%;">                 Country: Kyrgyzstan - Minimo: 8.70 - Maximo: 8.70 - Promedio: 8.70</div>                 ')[0];
+                popup_bc18866c02004c2e946ba6acb2084b8e.setContent(html_8479c8ee92d442d595ccb421cef8146c);
+            
+
+            marker_641860bea2214f90b9f8245d513fe081.bindPopup(popup_bc18866c02004c2e946ba6acb2084b8e);
+
+            
+        
+        
+            
+
+            var marker_5b7662406deb4d4cb921452a9fcd682e = L.marker(
+                [-0.789275,113.921327],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_f4b70efff7fc480c85036086010283dc = L.popup({maxWidth: '300'});
+
+            
+                var html_d7d040de0ad04623b6237ea9034d22d7 = $('         <div id="html_d7d040de0ad04623b6237ea9034d22d7"                 style="width: 100.0%; height: 100.0%;">                 Country: Indonesia - Minimo: 7.60 - Maximo: 7.60 - Promedio: 7.60</div>                 ')[0];
+                popup_f4b70efff7fc480c85036086010283dc.setContent(html_d7d040de0ad04623b6237ea9034d22d7);
+            
+
+            marker_5b7662406deb4d4cb921452a9fcd682e.bindPopup(popup_f4b70efff7fc480c85036086010283dc);
+
+            
+        
+        
+            
+
+            var marker_8e1c5ea18ec84b569bb5a72c749b2564 = L.marker(
+                [30.375321,69.34511599999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_a82905566a8e44cc8b6dcddc80e4452d = L.popup({maxWidth: '300'});
+
+            
+                var html_a06d5ac0c8c142eab1c6652cdd04bacb = $('         <div id="html_a06d5ac0c8c142eab1c6652cdd04bacb"                 style="width: 100.0%; height: 100.0%;">                 Country: Pakistan - Minimo: 7.00 - Maximo: 7.00 - Promedio: 7.00</div>                 ')[0];
+                popup_a82905566a8e44cc8b6dcddc80e4452d.setContent(html_a06d5ac0c8c142eab1c6652cdd04bacb);
+            
+
+            marker_8e1c5ea18ec84b569bb5a72c749b2564.bindPopup(popup_a82905566a8e44cc8b6dcddc80e4452d);
+
+            
+        
+        
+            
+
+            var marker_68d03b4c8b714f2c902eb1847fcc88b3 = L.marker(
+                [32.427908,53.688046],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_5d0780e2c05f4c2689bf2bd36f8f1010 = L.popup({maxWidth: '300'});
+
+            
+                var html_09d161fb730a40b2ba07ef1a4195374d = $('         <div id="html_09d161fb730a40b2ba07ef1a4195374d"                 style="width: 100.0%; height: 100.0%;">                 Country: Iran - Minimo: 7.50 - Maximo: 8.50 - Promedio: 8.13</div>                 ')[0];
+                popup_5d0780e2c05f4c2689bf2bd36f8f1010.setContent(html_09d161fb730a40b2ba07ef1a4195374d);
+            
+
+            marker_68d03b4c8b714f2c902eb1847fcc88b3.bindPopup(popup_5d0780e2c05f4c2689bf2bd36f8f1010);
+
+            
+        
+        
+            
+
+            var marker_bc841809079f49d58ee263fe4023adbd = L.marker(
+                [33.93911,67.709953],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_823b04ff19e545709a8f4d1849fb811b = L.popup({maxWidth: '300'});
+
+            
+                var html_a543d7550cc84b348cf16e86d9d1cb64 = $('         <div id="html_a543d7550cc84b348cf16e86d9d1cb64"                 style="width: 100.0%; height: 100.0%;">                 Country: Afghanistan - Minimo: 7.40 - Maximo: 7.40 - Promedio: 7.40</div>                 ')[0];
+                popup_823b04ff19e545709a8f4d1849fb811b.setContent(html_a543d7550cc84b348cf16e86d9d1cb64);
+            
+
+            marker_bc841809079f49d58ee263fe4023adbd.bindPopup(popup_823b04ff19e545709a8f4d1849fb811b);
+
+            
+        
+        
+            
+
+            var marker_700d95db07464dae832acd4e93478f80 = L.marker(
+                [39.074208,21.824312],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_09348994504444a1bd2eb623d131d2e2 = L.popup({maxWidth: '300'});
+
+            
+                var html_2a46e202212b4039a4168420c10e3872 = $('         <div id="html_2a46e202212b4039a4168420c10e3872"                 style="width: 100.0%; height: 100.0%;">                 Country: Greece - Minimo: 7.30 - Maximo: 7.30 - Promedio: 7.30</div>                 ')[0];
+                popup_09348994504444a1bd2eb623d131d2e2.setContent(html_2a46e202212b4039a4168420c10e3872);
+            
+
+            marker_700d95db07464dae832acd4e93478f80.bindPopup(popup_09348994504444a1bd2eb623d131d2e2);
+
+            
+        
+        
+            
+
+            var marker_f412019ff6ce442496dfa157facd5701 = L.marker(
+                [23.424076,53.847818],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_e7ae692c90a6430c83d8000e80a3feb0 = L.popup({maxWidth: '300'});
+
+            
+                var html_d19570995161494aaaf3c813cf0f848f = $('         <div id="html_d19570995161494aaaf3c813cf0f848f"                 style="width: 100.0%; height: 100.0%;">                 Country: United Arab Emirates - Minimo: 8.20 - Maximo: 8.20 - Promedio: 8.20</div>                 ')[0];
+                popup_e7ae692c90a6430c83d8000e80a3feb0.setContent(html_d19570995161494aaaf3c813cf0f848f);
+            
+
+            marker_f412019ff6ce442496dfa157facd5701.bindPopup(popup_e7ae692c90a6430c83d8000e80a3feb0);
+
+            
+        
+        
+            
+
+            var marker_3c2d6608678a4166a242263edb374c70 = L.marker(
+                [-0.023559,37.906193],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_b0df214e827c4cacae9b801ddea7aba1);
+            
+        
+            
+            var popup_a4cde1905a6647e38991addd602be1af = L.popup({maxWidth: '300'});
+
+            
+                var html_594e965958a044b0a8a8113885c9d98d = $('         <div id="html_594e965958a044b0a8a8113885c9d98d"                 style="width: 100.0%; height: 100.0%;">                 Country: Kenya - Minimo: 7.40 - Maximo: 7.40 - Promedio: 7.40</div>                 ')[0];
+                popup_a4cde1905a6647e38991addd602be1af.setContent(html_594e965958a044b0a8a8113885c9d98d);
+            
+
+            marker_3c2d6608678a4166a242263edb374c70.bindPopup(popup_a4cde1905a6647e38991addd602be1af);
+
+            
+        
+        
+        
+        </script>
+        
